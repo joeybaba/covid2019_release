@@ -14,7 +14,16 @@
 - [dashboard.json](json/dashboard.json) : superset dashboard数据导出备份
 
 ### 疫情数据预处理说明：
-由于取自仓库的数据，部分日期数据丢失，为保证数据连续性，将填充完整连续的时间，并采用向前、向后的方式填充空白数据。数据存在一部分误差。
+取自仓库的数据部分日期数据丢失，为保证数据连续性：
+
+- 补全缺失日期
+- 向前(ffill)、向后(bfill)的方式填充空白日期的数据
+- 数据存在一部分误差
+
+### 实现方式：
+- Python : PyCharm
+- Mysql : Navicat
+- superset数据分析平台
 
 ### superset仪表盘截图：
 ![image](image/dashboard_1.jpg)
