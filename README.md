@@ -18,6 +18,12 @@
 
 ### superset仪表盘截图：
 ![image](image/dashboard_1.jpg)
+![image](image/dashboard_2.jpg)
+![image](image/dashboard_3.jpg)
+![image](image/dashboard_4.jpg)
+![image](image/dashboard_5.jpg)
+![image](image/dashboard_6.jpg)
+
 
 
 
