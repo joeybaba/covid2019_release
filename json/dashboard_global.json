@@ -1,0 +1,511 @@
+{
+    "dashboards": [
+        {
+            "__Dashboard__": {
+                "css": "",
+                "dashboard_title": "covid_global",
+                "description": null,
+                "json_metadata": "{\"timed_refresh_immune_slices\": [], \"filter_scopes\": {\"134\": {\"__time_range\": {\"scope\": [\"ROOT_ID\"], \"immune\": []}}}, \"expanded_slices\": {}, \"refresh_frequency\": 0, \"default_filters\": \"{\\\"134\\\": {\\\"__time_range\\\": \\\"No filter\\\"}}\", \"remote_id\": 8}",
+                "position_json": "{\"CHART-56uZRe4JvQ\":{\"children\":[],\"id\":\"CHART-56uZRe4JvQ\",\"meta\":{\"chartId\":141,\"height\":50,\"sliceName\":\"\\u6d32-\\u56fd\\u786e\\u8bca\\u4eba\\u6570\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-0K6pOLNH9\"],\"type\":\"CHART\"},\"CHART-I4xy-jPiLO\":{\"children\":[],\"id\":\"CHART-I4xy-jPiLO\",\"meta\":{\"chartId\":133,\"height\":97,\"sliceName\":\"\\u5168\\u7403\\u786e\\u8bca\\u4eba\\u6570\\u6982\\u51b5\\u56fe\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-Idk8LNF3k\"],\"type\":\"CHART\"},\"CHART-IODNUWYIHk\":{\"children\":[],\"id\":\"CHART-IODNUWYIHk\",\"meta\":{\"chartId\":135,\"height\":50,\"sliceName\":\"\\u5168\\u7403\\u786e\\u8bca\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-0K6pOLNH9\"],\"type\":\"CHART\"},\"CHART-KiyRbkhIK5\":{\"children\":[],\"id\":\"CHART-KiyRbkhIK5\",\"meta\":{\"chartId\":140,\"height\":24,\"sliceName\":\"\\u589e\\u957f\\u901f\\u5ea6\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ujEE8yAzWv\"],\"type\":\"CHART\"},\"CHART-LMeh0c6rWN\":{\"children\":[],\"id\":\"CHART-LMeh0c6rWN\",\"meta\":{\"chartId\":137,\"height\":24,\"sliceName\":\"\\u5168\\u7403\\u6cbb\\u6108\\u4eba\\u6570\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ujEE8yAzWv\"],\"type\":\"CHART\"},\"CHART-QBYsJ2tq_b\":{\"children\":[],\"id\":\"CHART-QBYsJ2tq_b\",\"meta\":{\"chartId\":139,\"height\":24,\"sliceName\":\"\\u5168\\u7403\\u786e\\u8bca\\u589e\\u52a0\\u4eba\\u6570\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ujEE8yAzWv\"],\"type\":\"CHART\"},\"CHART-VAoVmg6Qjq\":{\"children\":[],\"id\":\"CHART-VAoVmg6Qjq\",\"meta\":{\"chartId\":143,\"height\":51,\"sliceName\":\"\\u5168\\u7403\\u6b7b\\u4ea1\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-62dIwAS9PQ\"],\"type\":\"CHART\"},\"CHART-W-DnrMkEfp\":{\"children\":[],\"id\":\"CHART-W-DnrMkEfp\",\"meta\":{\"chartId\":134,\"height\":24,\"sliceName\":\"\\u65f6\\u95f4\\u7b5b\\u9009\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ujEE8yAzWv\"],\"type\":\"CHART\"},\"CHART-jGBbvj_cVg\":{\"children\":[],\"id\":\"CHART-jGBbvj_cVg\",\"meta\":{\"chartId\":138,\"height\":24,\"sliceName\":\"\\u5168\\u7403\\u6b7b\\u4ea1\\u4eba\\u6570\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ujEE8yAzWv\"],\"type\":\"CHART\"},\"CHART-rCFEb9uUg8\":{\"children\":[],\"id\":\"CHART-rCFEb9uUg8\",\"meta\":{\"chartId\":136,\"height\":24,\"sliceName\":\"\\u5168\\u7403\\u786e\\u8bca\\u4eba\\u6570\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ujEE8yAzWv\"],\"type\":\"CHART\"},\"CHART-uOYGO-ssJT\":{\"children\":[],\"id\":\"CHART-uOYGO-ssJT\",\"meta\":{\"chartId\":142,\"height\":51,\"sliceName\":\"\\u5168\\u7403\\u6cbb\\u6108\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-62dIwAS9PQ\"],\"type\":\"CHART\"},\"DASHBOARD_VERSION_KEY\":\"v2\",\"GRID_ID\":{\"children\":[\"ROW-ujEE8yAzWv\",\"ROW-62dIwAS9PQ\",\"ROW-0K6pOLNH9\",\"ROW-Idk8LNF3k\"],\"id\":\"GRID_ID\",\"parents\":[\"ROOT_ID\"],\"type\":\"GRID\"},\"HEADER_ID\":{\"id\":\"HEADER_ID\",\"meta\":{\"text\":\"covid_global\"},\"type\":\"HEADER\"},\"ROOT_ID\":{\"children\":[\"GRID_ID\"],\"id\":\"ROOT_ID\",\"type\":\"ROOT\"},\"ROW-0K6pOLNH9\":{\"children\":[\"CHART-56uZRe4JvQ\",\"CHART-IODNUWYIHk\"],\"id\":\"ROW-0K6pOLNH9\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-62dIwAS9PQ\":{\"children\":[\"CHART-uOYGO-ssJT\",\"CHART-VAoVmg6Qjq\"],\"id\":\"ROW-62dIwAS9PQ\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-Idk8LNF3k\":{\"children\":[\"CHART-I4xy-jPiLO\"],\"id\":\"ROW-Idk8LNF3k\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-ujEE8yAzWv\":{\"children\":[\"CHART-W-DnrMkEfp\",\"CHART-rCFEb9uUg8\",\"CHART-LMeh0c6rWN\",\"CHART-jGBbvj_cVg\",\"CHART-QBYsJ2tq_b\",\"CHART-KiyRbkhIK5\"],\"id\":\"ROW-ujEE8yAzWv\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"}}",
+                "slices": [
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_force_directed_graph",
+                            "datasource_type": "table",
+                            "id": 133,
+                            "params": "{\"adhoc_filters\": [], \"charge\": \"-100\", \"datasource\": \"26__table\", \"granularity_sqla\": \"updateTime\", \"groupby\": [\"continentName\", \"countryName\"], \"link_length\": \"50\", \"metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"province_confirmedCount\", \"optionName\": \"metric_kqtijvj933_r6a9i9f4o49\", \"sqlExpression\": \"province_confirmedCount\"}, \"row_limit\": null, \"slice_id\": 133, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"directed_force\", \"remote_id\": 133, \"datasource_name\": \"global_force_directed_graph\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u786e\u8bca\u4eba\u6570\u6982\u51b5\u56fe",
+                            "viz_type": "directed_force"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_force_directed_graph",
+                            "datasource_type": "table",
+                            "id": 134,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"26__table\", \"date_filter\": true, \"filter_configs\": [], \"granularity_sqla\": \"updateTime\", \"instant_filtering\": true, \"show_druid_time_granularity\": false, \"show_druid_time_origin\": false, \"show_sqla_time_column\": false, \"show_sqla_time_granularity\": false, \"slice_id\": 134, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"filter_box\", \"remote_id\": 134, \"datasource_name\": \"global_force_directed_graph\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u65f6\u95f4\u7b5b\u9009",
+                            "viz_type": "filter_box"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_force_directed_graph",
+                            "datasource_type": "table",
+                            "id": 135,
+                            "params": "{\"adhoc_filters\": [], \"annotation_layers\": [], \"bottom_margin\": \"auto\", \"color_scheme\": \"d3Category20b\", \"comparison_type\": \"values\", \"contribution\": false, \"datasource\": \"26__table\", \"granularity_sqla\": \"updateTime\", \"groupby\": [\"continentName\"], \"label_colors\": {\"root\": \"#ff8083\", \"\\u4e0d\\u4e39\": \"#00d1c1\", \"\\u4e1c\\u5e1d\\u6c76\": \"#8ce071\", \"\\u4e2d\\u56fd\": \"#988b4e\", \"\\u4e2d\\u975e\\u5171\\u548c\\u56fd\": \"#bbedab\", \"\\u4e39\\u9ea6\": \"#55d12e\", \"\\u4e4c\\u514b\\u5170\": \"#bbedab\", \"\\u4e4c\\u5179\\u522b\\u514b\\u65af\\u5766\": \"#ff3339\", \"\\u4e4c\\u5e72\\u8fbe\": \"#55d12e\", \"\\u4e4c\\u62c9\\u572d\": \"#ffb400\", \"\\u4e4d\\u5f97\": \"#ff3339\", \"\\u4e5f\\u95e8\\u5171\\u548c\\u56fd\": \"#00b3a5\", \"\\u4e9a\\u6d32\": \"#ff5a5f\", \"\\u4e9a\\u7f8e\\u5c3c\\u4e9a\": \"#00a1b3\", \"\\u4ee5\\u8272\\u5217\": \"#00ffeb\", \"\\u4f0a\\u62c9\\u514b\": \"#7b0051\", \"\\u4f0a\\u6717\": \"#ff1ab1\", \"\\u4f2f\\u5229\\u5179\": \"#ff5a5f\", \"\\u4f5b\\u5f97\\u89d2\": \"#00b3a5\", \"\\u4fc4\\u7f57\\u65af\": \"#b37e00\", \"\\u4fdd\\u52a0\\u5229\\u4e9a\": \"#ff5a5f\", \"\\u514b\\u7f57\\u5730\\u4e9a\": \"#b4a76c\", \"\\u5173\\u5c9b\": \"#00ffeb\", \"\\u5176\\u4ed6\": \"#7b0051\", \"\\u5188\\u6bd4\\u4e9a\": \"#005c66\", \"\\u51b0\\u5c9b\": \"#ff3339\", \"\\u51e0\\u5185\\u4e9a\": \"#ff3339\", \"\\u51e0\\u5185\\u4e9a\\u6bd4\\u7ecd\": \"#ffd266\", \"\\u5217\\u652f\\u6566\\u58eb\\u767b\": \"#55d12e\", \"\\u521a\\u679c\\uff08\\u5e03\\uff09\": \"#005c66\", \"\\u521a\\u679c\\uff08\\u91d1\\uff09\": \"#ff8083\", \"\\u5229\\u6bd4\\u4e9a\": \"#8ce071\", \"\\u5229\\u6bd4\\u91cc\\u4e9a\": \"#ff1ab1\", \"\\u52a0\\u62ff\\u5927\": \"#b4a76c\", \"\\u52a0\\u7eb3\": \"#bbedab\", \"\\u52a0\\u84ec\": \"#cc0086\", \"\\u5308\\u7259\\u5229\": \"#7b0051\", \"\\u5317\\u7231\\u5c14\\u5170\": \"#ff5a5f\", \"\\u5317\\u7f8e\\u6d32\": \"#007A87\", \"\\u5317\\u9a6c\\u5176\\u987f\": \"#00d1c1\", \"\\u5317\\u9a6c\\u91cc\\u4e9a\\u7eb3\\u7fa4\\u5c9b\\u8054\\u90a6\": \"#988b4e\", \"\\u5357\\u7f8e\\u6d32\": \"#00d1c1\", \"\\u5357\\u82cf\\u4e39\": \"#cbc29a\", \"\\u5357\\u975e\": \"#7b0051\", \"\\u535a\\u8328\\u74e6\\u7eb3\": \"#00ffeb\", \"\\u5361\\u5854\\u5c14\": \"#007A87\", \"\\u5362\\u65fa\\u8fbe\": \"#007A87\", \"\\u5362\\u68ee\\u5821\": \"#ff8083\", \"\\u5370\\u5ea6\": \"#7b0051\", \"\\u5370\\u5ea6\\u5c3c\\u897f\\u4e9a\": \"#005c66\", \"\\u5371\\u5730\\u9a6c\\u62c9\": \"#ff8083\", \"\\u5384\\u74dc\\u591a\\u5c14\": \"#005c66\", \"\\u5384\\u7acb\\u7279\\u91cc\\u4e9a\": \"#55d12e\", \"\\u53d9\\u5229\\u4e9a\": \"#b37e00\", \"\\u53e4\\u5df4\": \"#00a1b3\", \"\\u5409\\u5c14\\u5409\\u65af\\u65af\\u5766\": \"#ffd266\", \"\\u5409\\u5e03\\u63d0\": \"#b4a76c\", \"\\u54c8\\u8428\\u514b\\u65af\\u5766\": \"#bbedab\", \"\\u54e5\\u4f26\\u6bd4\\u4e9a\": \"#ffd266\", \"\\u54e5\\u65af\\u8fbe\\u9ece\\u52a0\": \"#00a1b3\", \"\\u5580\\u9ea6\\u9686\": \"#8ce071\", \"\\u571f\\u8033\\u5176\": \"#00d1c1\", \"\\u5723\\u5176\\u8328\\u548c\\u5c3c\\u7ef4\\u65af\": \"#00d1c1\", \"\\u5723\\u5362\\u897f\\u4e9a\": \"#007A87\", \"\\u5723\\u591a\\u7f8e\\u548c\\u666e\\u6797\\u897f\\u6bd4\": \"#b4a76c\", \"\\u5723\\u5df4\\u6cf0\\u52d2\\u7c73\": \"#00d1c1\", \"\\u5723\\u5df4\\u6cf0\\u52d2\\u7c73\\u5c9b\": \"#cbc29a\", \"\\u5723\\u6587\\u68ee\\u7279\\u548c\\u683c\\u6797\\u7eb3\\u4e01\\u65af\": \"#00b3a5\", \"\\u5723\\u76ae\\u57c3\\u5c14\\u548c\\u5bc6\\u514b\\u9686\\u7fa4\\u5c9b\": \"#007A87\", \"\\u5723\\u9a6c\\u4e01\\u5c9b\": \"#005c66\", \"\\u5723\\u9a6c\\u529b\\u8bfa\": \"#ff1ab1\", \"\\u572d\\u4e9a\\u90a3\": \"#ff1ab1\", \"\\u5766\\u6851\\u5c3c\\u4e9a\": \"#cc0086\", \"\\u57c3\\u53ca\": \"#ffb400\", \"\\u57c3\\u585e\\u4fc4\\u6bd4\\u4e9a\": \"#ffd266\", \"\\u5854\\u5409\\u514b\\u65af\\u5766\": \"#8ce071\", \"\\u585e\\u5185\\u52a0\\u5c14\": \"#00a1b3\", \"\\u585e\\u5c14\\u7ef4\\u4e9a\": \"#ff3339\", \"\\u585e\\u62c9\\u5229\\u6602\": \"#ff1ab1\", \"\\u585e\\u6d66\\u8def\\u65af\": \"#b37e00\", \"\\u585e\\u820c\\u5c14\": \"#ff5a5f\", \"\\u58a8\\u897f\\u54e5\": \"#ff8083\", \"\\u591a\\u54e5\": \"#b37e00\", \"\\u591a\\u7c73\\u5c3c\\u514b\": \"#7b0051\", \"\\u591a\\u7c73\\u5c3c\\u52a0\": \"#ffb400\", \"\\u5927\\u4e0d\\u5217\\u98a0\\u53ca\\u5317\\u7231\\u5c14\\u5170\\u8054\\u5408\\u738b\\u56fd\": \"#bbedab\", \"\\u5927\\u6d0b\\u6d32\": \"#8ce071\", \"\\u5965\\u5730\\u5229\": \"#007A87\", \"\\u59d4\\u5185\\u745e\\u62c9\": \"#ff8083\", \"\\u5b5f\\u52a0\\u62c9\\u56fd\": \"#00ffeb\", \"\\u5b89\\u54e5\\u62c9\": \"#00b3a5\", \"\\u5b89\\u572d\\u62c9\": \"#8ce071\", \"\\u5b89\\u63d0\\u74dc\\u548c\\u5df4\\u5e03\\u8fbe\": \"#55d12e\", \"\\u5b89\\u9053\\u5c14\": \"#bbedab\", \"\\u5c3c\\u52a0\\u62c9\\u74dc\": \"#cbc29a\", \"\\u5c3c\\u65e5\\u5229\\u4e9a\": \"#007A87\", \"\\u5c3c\\u65e5\\u5c14\": \"#00d1c1\", \"\\u5c3c\\u6cca\\u5c14\": \"#ffd266\", \"\\u5df4\\u52d2\\u65af\\u5766\": \"#ff8083\", \"\\u5df4\\u54c8\\u9a6c\": \"#ff1ab1\", \"\\u5df4\\u57fa\\u65af\\u5766\": \"#ff3339\", \"\\u5df4\\u5df4\\u591a\\u65af\": \"#988b4e\", \"\\u5df4\\u5e03\\u4e9a\\u65b0\\u51e0\\u5185\\u4e9a\": \"#8ce071\", \"\\u5df4\\u62c9\\u572d\": \"#ff3339\", \"\\u5df4\\u62ff\\u9a6c\": \"#b4a76c\", \"\\u5df4\\u6797\": \"#cc0086\", \"\\u5df4\\u897f\": \"#00a1b3\", \"\\u5e03\\u57fa\\u7eb3\\u6cd5\\u7d22\": \"#005c66\", \"\\u5e03\\u9686\\u8fea\\u5171\\u548c\\u56fd\": \"#988b4e\", \"\\u5e0c\\u814a\": \"#b37e00\", \"\\u5e93\\u62c9\\u7d22\\u5c9b\": \"#00b3a5\", \"\\u5f00\\u66fc\\u7fa4\\u5c9b\": \"#bbedab\", \"\\u5fb7\\u56fd\": \"#ffd266\", \"\\u610f\\u5927\\u5229\": \"#988b4e\", \"\\u62c9\\u8131\\u7ef4\\u4e9a\": \"#ff5a5f\", \"\\u632a\\u5a01\": \"#ffb400\", \"\\u6377\\u514b\": \"#005c66\", \"\\u6469\\u5c14\\u591a\\u74e6\": \"#ff1ab1\", \"\\u6469\\u6d1b\\u54e5\": \"#b4a76c\", \"\\u6469\\u7eb3\\u54e5\": \"#988b4e\", \"\\u6587\\u83b1\": \"#00a1b3\", \"\\u6590\\u6d4e\": \"#00d1c1\", \"\\u65af\\u5a01\\u58eb\\u5170\": \"#ff5a5f\", \"\\u65af\\u6d1b\\u4f10\\u514b\": \"#00b3a5\", \"\\u65af\\u6d1b\\u6587\\u5c3c\\u4e9a\": \"#cbc29a\", \"\\u65af\\u91cc\\u5170\\u5361\": \"#cbc29a\", \"\\u65b0\\u52a0\\u5761\": \"#00d1c1\", \"\\u65b0\\u5580\\u91cc\\u591a\\u5c3c\\u4e9a\": \"#ff5a5f\", \"\\u65b0\\u897f\\u5170\": \"#7b0051\", \"\\u65e5\\u672c\": \"#7b0051\", \"\\u667a\\u5229\": \"#bbedab\", \"\\u67ec\\u57d4\\u5be8\": \"#007A87\", \"\\u6839\\u897f\\u5c9b\": \"#ffd266\", \"\\u683c\\u6797\\u90a3\\u8fbe\": \"#ffd266\", \"\\u683c\\u9675\\u5170\": \"#005c66\", \"\\u683c\\u9c81\\u5409\\u4e9a\": \"#8ce071\", \"\\u68b5\\u8482\\u5188\": \"#b37e00\", \"\\u6b27\\u6d32\": \"#ffb400\", \"\\u6bd4\\u5229\\u65f6\": \"#cc0086\", \"\\u6bdb\\u91cc\\u5854\\u5c3c\\u4e9a\": \"#988b4e\", \"\\u6bdb\\u91cc\\u6c42\\u65af\": \"#ff8083\", \"\\u6c99\\u7279\\u963f\\u62c9\\u4f2f\": \"#8ce071\", \"\\u6cd5\\u56fd\": \"#ff3339\", \"\\u6cd5\\u5c5e\\u572d\\u4e9a\\u90a3\": \"#8ce071\", \"\\u6cd5\\u5c5e\\u6ce2\\u5229\\u5c3c\\u897f\\u4e9a\": \"#007A87\", \"\\u6cd5\\u7f57\\u7fa4\\u5c9b\": \"#b4a76c\", \"\\u6ce2\\u5170\": \"#cc0086\", \"\\u6ce2\\u591a\\u9ece\\u5404\": \"#cc0086\", \"\\u6ce2\\u9ed1\": \"#988b4e\", \"\\u6cf0\\u56fd\": \"#007A87\", \"\\u6cfd\\u897f\\u5c9b\": \"#00d1c1\", \"\\u6d25\\u5df4\\u5e03\\u97e6\": \"#b37e00\", \"\\u6d2a\\u90fd\\u62c9\\u65af\": \"#ff3339\", \"\\u6d77\\u5730\": \"#ff1ab1\", \"\\u6fb3\\u5927\\u5229\\u4e9a\": \"#b37e00\", \"\\u7231\\u5c14\\u5170\": \"#005c66\", \"\\u7231\\u6c99\\u5c3c\\u4e9a\": \"#007A87\", \"\\u7259\\u4e70\\u52a0\": \"#00ffeb\", \"\\u7279\\u514b\\u65af\\u548c\\u51ef\\u79d1\\u65af\\u7fa4\\u5c9b\": \"#b37e00\", \"\\u7279\\u7acb\\u5c3c\\u8fbe\\u548c\\u591a\\u5df4\\u54e5\": \"#ff3339\", \"\\u73bb\\u5229\\u7ef4\\u4e9a\": \"#b4a76c\", \"\\u745e\\u5178\": \"#00a1b3\", \"\\u745e\\u58eb\": \"#00a1b3\", \"\\u74dc\\u5fb7\\u7f57\\u666e\\u5c9b\": \"#ffd266\", \"\\u7559\\u5c3c\\u65fa\": \"#ffb400\", \"\\u7559\\u5c3c\\u6c6a\": \"#cbc29a\", \"\\u767d\\u4fc4\\u7f57\\u65af\": \"#00ffeb\", \"\\u767e\\u6155\\u5927\": \"#55d12e\", \"\\u76f4\\u5e03\\u7f57\\u9640\": \"#00b3a5\", \"\\u798f\\u514b\\u5170\\u7fa4\\u5c9b\": \"#55d12e\", \"\\u79d1\\u5a01\\u7279\": \"#ffb400\", \"\\u79d1\\u6469\\u7f57\": \"#ff1ab1\", \"\\u79d1\\u7279\\u8fea\\u74e6\": \"#bbedab\", \"\\u79d1\\u7d22\\u6c83\": \"#00ffeb\", \"\\u79d8\\u9c81\": \"#00ffeb\", \"\\u7a81\\u5c3c\\u65af\": \"#00a1b3\", \"\\u7acb\\u9676\\u5b9b\": \"#7b0051\", \"\\u7d22\\u9a6c\\u91cc\": \"#00ffeb\", \"\\u7ea6\\u65e6\": \"#005c66\", \"\\u7eb3\\u7c73\\u6bd4\\u4e9a\": \"#55d12e\", \"\\u7f05\\u7538\": \"#988b4e\", \"\\u7f57\\u9a6c\\u5c3c\\u4e9a\": \"#cbc29a\", \"\\u7f8e\\u56fd\": \"#ffb400\", \"\\u7f8e\\u5c5e\\u7ef4\\u5c14\\u4eac\\u7fa4\\u5c9b\": \"#7b0051\", \"\\u8001\\u631d\": \"#ff5a5f\", \"\\u80af\\u5c3c\\u4e9a\": \"#ffd266\", \"\\u81f3\\u5c0a\\u516c\\u4e3b\\u90ae\\u8f6e\": \"#00a1b3\", \"\\u82ac\\u5170\": \"#00b3a5\", \"\\u82cf\\u4e39\": \"#00d1c1\", \"\\u82cf\\u91cc\\u5357\": \"#00b3a5\", \"\\u82f1\\u56fd\": \"#55d12e\", \"\\u82f1\\u56fd\\uff08\\u542b\\u5317\\u7231\\u5c14\\u5170\\uff09\": \"#ffd266\", \"\\u82f1\\u5c5e\\u7ef4\\u5c14\\u4eac\\u7fa4\\u5c9b\": \"#ff5a5f\", \"\\u8377\\u5170\": \"#ff8083\", \"\\u8377\\u5170\\u52a0\\u52d2\\u6bd4\\u5730\\u533a\": \"#cc0086\", \"\\u83ab\\u6851\\u6bd4\\u514b\": \"#7b0051\", \"\\u83b1\\u7d22\\u6258\": \"#00b3a5\", \"\\u83f2\\u5f8b\\u5bbe\": \"#ff8083\", \"\\u8428\\u5c14\\u74e6\\u591a\": \"#cc0086\", \"\\u8461\\u8404\\u7259\": \"#8ce071\", \"\\u8499\\u53e4\": \"#55d12e\", \"\\u8499\\u7279\\u585e\\u62c9\\u7279\": \"#988b4e\", \"\\u897f\\u73ed\\u7259\": \"#cbc29a\", \"\\u8d1d\\u5b81\": \"#cbc29a\", \"\\u8d5e\\u6bd4\\u4e9a\\u5171\\u548c\\u56fd\": \"#ff3339\", \"\\u8d64\\u9053\\u51e0\\u5185\\u4e9a\": \"#ff8083\", \"\\u8d8a\\u5357\": \"#cc0086\", \"\\u94bb\\u77f3\\u516c\\u4e3b\\u53f7\\u90ae\\u8f6e\": \"#cc0086\", \"\\u963f\\u585e\\u62dc\\u7586\": \"#bbedab\", \"\\u963f\\u5bcc\\u6c57\": \"#b4a76c\", \"\\u963f\\u5c14\\u53ca\\u5229\\u4e9a\": \"#ffb400\", \"\\u963f\\u5c14\\u5df4\\u5c3c\\u4e9a\": \"#ff1ab1\", \"\\u963f\\u66fc\": \"#00b3a5\", \"\\u963f\\u6839\\u5ef7\": \"#cbc29a\", \"\\u963f\\u8054\\u914b\": \"#ff5a5f\", \"\\u963f\\u9c81\\u5df4\": \"#b37e00\", \"\\u975e\\u6d32\": \"#b4a76c\", \"\\u97e9\\u56fd\": \"#ffb400\", \"\\u9a6c\\u5c14\\u4ee3\\u592b\": \"#55d12e\", \"\\u9a6c\\u6069\\u5c9b\": \"#00ffeb\", \"\\u9a6c\\u62c9\\u7ef4\": \"#cc0086\", \"\\u9a6c\\u63d0\\u5c3c\\u514b\": \"#bbedab\", \"\\u9a6c\\u6765\\u897f\\u4e9a\": \"#b4a76c\", \"\\u9a6c\\u7ea6\\u7279\": \"#00ffeb\", \"\\u9a6c\\u8033\\u4ed6\": \"#005c66\", \"\\u9a6c\\u8fbe\\u52a0\\u65af\\u52a0\": \"#00a1b3\", \"\\u9a6c\\u91cc\": \"#cbc29a\", \"\\u9ece\\u5df4\\u5ae9\": \"#ff1ab1\", \"\\u9ed1\\u5c71\": \"#ffb400\"}, \"left_margin\": \"auto\", \"line_interpolation\": \"linear\", \"metrics\": [{\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"province_confirmedCount\", \"optionName\": \"metric_7l293bktxqn_y4s5g576yra\", \"sqlExpression\": \"province_confirmedCount\"}], \"order_desc\": true, \"resample_method\": null, \"resample_rule\": null, \"rich_tooltip\": true, \"rolling_type\": \"None\", \"row_limit\": null, \"send_time_range\": false, \"show_brush\": \"auto\", \"show_legend\": true, \"show_markers\": false, \"slice_id\": 135, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"timeseries_limit_metric\": {\"aggregate\": null, \"column\": {\"column_name\": \"updateTime\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 517, \"is_dttm\": true, \"optionName\": \"_col_updateTime\", \"type\": \"DATE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"(updateTime)\", \"optionName\": \"metric_qtzgwtc53cf_3a2ovn48vpq\", \"sqlExpression\": null}, \"url_params\": {}, \"viz_type\": \"line\", \"x_axis_format\": \"smart_date\", \"x_axis_label\": \"\", \"x_axis_showminmax\": false, \"x_ticks_layout\": \"auto\", \"y_axis_bounds\": [null, null], \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"y_axis_showminmax\": false, \"y_log_scale\": false, \"remote_id\": 135, \"datasource_name\": \"global_force_directed_graph\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u786e\u8bca\u4eba\u6570\u65f6\u95f4\u7ebf",
+                            "viz_type": "line"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 136,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"confirmed\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 523, \"is_dttm\": false, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"SUM(confirmed)\", \"optionName\": \"metric_31l3rd0vhnv_26hsyse63ty\", \"sqlExpression\": null}, \"slice_id\": 136, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 136, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u786e\u8bca\u4eba\u6570",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 137,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"cured\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 524, \"is_dttm\": false, \"optionName\": \"_col_cured\", \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"SUM(cured)\", \"optionName\": \"metric_fj59bdqf8hr_a7vazsbexh6\", \"sqlExpression\": null}, \"slice_id\": 137, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 137, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u6cbb\u6108\u4eba\u6570",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 138,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"dead\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 525, \"is_dttm\": false, \"optionName\": \"_col_dead\", \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"SUM(dead)\", \"optionName\": \"metric_773w9gfjkyr_6iauc3fld9w\", \"sqlExpression\": null}, \"slice_id\": 138, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 138, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u6b7b\u4ea1\u4eba\u6570",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 139,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"diff_day\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 528, \"is_dttm\": false, \"optionName\": \"_col_diff_day\", \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"SUM(diff_day)\", \"optionName\": \"metric_ohsheq7cg9c_ad7n1cvnsv8\", \"sqlExpression\": null}, \"slice_id\": 139, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 139, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u786e\u8bca\u589e\u52a0\u4eba\u6570",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 140,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"SUM(diff_day) / SUM(confirmed)\", \"optionName\": \"metric_i263umplbmi_9zjpn8immzr\", \"sqlExpression\": \"SUM(diff_day) / SUM(confirmed)\"}, \"slice_id\": 140, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \",.1%\", \"remote_id\": 140, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u589e\u957f\u901f\u5ea6",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_force_directed_graph",
+                            "datasource_type": "table",
+                            "id": 141,
+                            "params": "{\"adhoc_filters\": [], \"color_scheme\": \"bnbColors\", \"datasource\": \"26__table\", \"granularity_sqla\": \"updateTime\", \"groupby\": [\"continentName\", \"countryName\"], \"label_colors\": {}, \"metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"province_confirmedCount\", \"optionName\": \"metric_mxbrk0xfcq_w8qt69imbdb\", \"sqlExpression\": \"province_confirmedCount\"}, \"row_limit\": null, \"secondary_metric\": null, \"slice_id\": 141, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"sunburst\", \"remote_id\": 141, \"datasource_name\": \"global_force_directed_graph\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u6d32-\u56fd\u786e\u8bca\u4eba\u6570",
+                            "viz_type": "sunburst"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 142,
+                            "params": "{\"adhoc_filters\": [], \"annotation_layers\": [], \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"comparison_type\": \"values\", \"contribution\": false, \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"groupby\": [\"continentName\"], \"label_colors\": {\"root\": \"#ff5a5f\", \"\\u4e0d\\u4e39\": \"#988b4e\", \"\\u4e1c\\u5e1d\\u6c76\": \"#ff5a5f\", \"\\u4e2d\\u56fd\": \"#005c66\", \"\\u4e2d\\u975e\\u5171\\u548c\\u56fd\": \"#cc0086\", \"\\u4e39\\u9ea6\": \"#cbc29a\", \"\\u4e4c\\u514b\\u5170\": \"#b4a76c\", \"\\u4e4c\\u5179\\u522b\\u514b\\u65af\\u5766\": \"#00ffeb\", \"\\u4e4c\\u5e72\\u8fbe\": \"#ff1ab1\", \"\\u4e4c\\u62c9\\u572d\": \"#ffb400\", \"\\u4e4d\\u5f97\": \"#bbedab\", \"\\u4e5f\\u95e8\\u5171\\u548c\\u56fd\": \"#cbc29a\", \"\\u4e9a\\u6d32\": \"#00b3a5\", \"\\u4e9a\\u7f8e\\u5c3c\\u4e9a\": \"#ffb400\", \"\\u4ee5\\u8272\\u5217\": \"#b4a76c\", \"\\u4f0a\\u62c9\\u514b\": \"#55d12e\", \"\\u4f0a\\u6717\": \"#bbedab\", \"\\u4f2f\\u5229\\u5179\": \"#988b4e\", \"\\u4f5b\\u5f97\\u89d2\": \"#ff3339\", \"\\u4fc4\\u7f57\\u65af\": \"#ff3339\", \"\\u4fdd\\u52a0\\u5229\\u4e9a\": \"#005c66\", \"\\u514b\\u7f57\\u5730\\u4e9a\": \"#7b0051\", \"\\u5173\\u5c9b\": \"#00a1b3\", \"\\u5176\\u4ed6\": \"#7b0051\", \"\\u5188\\u6bd4\\u4e9a\": \"#cbc29a\", \"\\u51b0\\u5c9b\": \"#00a1b3\", \"\\u51e0\\u5185\\u4e9a\": \"#bbedab\", \"\\u51e0\\u5185\\u4e9a\\u6bd4\\u7ecd\": \"#00a1b3\", \"\\u5217\\u652f\\u6566\\u58eb\\u767b\": \"#cbc29a\", \"\\u521a\\u679c\\uff08\\u5e03\\uff09\": \"#cbc29a\", \"\\u521a\\u679c\\uff08\\u91d1\\uff09\": \"#8ce071\", \"\\u5229\\u6bd4\\u4e9a\": \"#7b0051\", \"\\u5229\\u6bd4\\u91cc\\u4e9a\": \"#ffd266\", \"\\u52a0\\u62ff\\u5927\": \"#ffb400\", \"\\u52a0\\u7eb3\": \"#cc0086\", \"\\u52a0\\u84ec\": \"#ffb400\", \"\\u5308\\u7259\\u5229\": \"#00b3a5\", \"\\u5317\\u7231\\u5c14\\u5170\": \"#005c66\", \"\\u5317\\u7f8e\\u6d32\": \"#00d1c1\", \"\\u5317\\u9a6c\\u5176\\u987f\": \"#b37e00\", \"\\u5317\\u9a6c\\u91cc\\u4e9a\\u7eb3\\u7fa4\\u5c9b\\u8054\\u90a6\": \"#55d12e\", \"\\u5357\\u7f8e\\u6d32\": \"#00d1c1\", \"\\u5357\\u82cf\\u4e39\": \"#00ffeb\", \"\\u5357\\u975e\": \"#b37e00\", \"\\u535a\\u8328\\u74e6\\u7eb3\": \"#ff8083\", \"\\u5361\\u5854\\u5c14\": \"#b37e00\", \"\\u5362\\u65fa\\u8fbe\": \"#988b4e\", \"\\u5362\\u68ee\\u5821\": \"#007A87\", \"\\u5370\\u5ea6\": \"#55d12e\", \"\\u5370\\u5ea6\\u5c3c\\u897f\\u4e9a\": \"#ffd266\", \"\\u5371\\u5730\\u9a6c\\u62c9\": \"#b4a76c\", \"\\u5384\\u74dc\\u591a\\u5c14\": \"#005c66\", \"\\u5384\\u7acb\\u7279\\u91cc\\u4e9a\": \"#ff1ab1\", \"\\u53d9\\u5229\\u4e9a\": \"#ff1ab1\", \"\\u53e4\\u5df4\": \"#cc0086\", \"\\u5409\\u5c14\\u5409\\u65af\\u65af\\u5766\": \"#cc0086\", \"\\u5409\\u5e03\\u63d0\": \"#00d1c1\", \"\\u54c8\\u8428\\u514b\\u65af\\u5766\": \"#ff8083\", \"\\u54e5\\u4f26\\u6bd4\\u4e9a\": \"#ffd266\", \"\\u54e5\\u65af\\u8fbe\\u9ece\\u52a0\": \"#cc0086\", \"\\u5580\\u9ea6\\u9686\": \"#7b0051\", \"\\u571f\\u8033\\u5176\": \"#988b4e\", \"\\u5723\\u5176\\u8328\\u548c\\u5c3c\\u7ef4\\u65af\": \"#007A87\", \"\\u5723\\u5362\\u897f\\u4e9a\": \"#7b0051\", \"\\u5723\\u591a\\u7f8e\\u548c\\u666e\\u6797\\u897f\\u6bd4\": \"#00d1c1\", \"\\u5723\\u5df4\\u6cf0\\u52d2\\u7c73\": \"#007A87\", \"\\u5723\\u5df4\\u6cf0\\u52d2\\u7c73\\u5c9b\": \"#ffd266\", \"\\u5723\\u6587\\u68ee\\u7279\\u548c\\u683c\\u6797\\u7eb3\\u4e01\\u65af\": \"#005c66\", \"\\u5723\\u76ae\\u57c3\\u5c14\\u548c\\u5bc6\\u514b\\u9686\\u7fa4\\u5c9b\": \"#7b0051\", \"\\u5723\\u9a6c\\u4e01\\u5c9b\": \"#ff1ab1\", \"\\u5723\\u9a6c\\u529b\\u8bfa\": \"#00ffeb\", \"\\u572d\\u4e9a\\u90a3\": \"#ff1ab1\", \"\\u5766\\u6851\\u5c3c\\u4e9a\": \"#ffb400\", \"\\u57c3\\u53ca\": \"#007A87\", \"\\u57c3\\u585e\\u4fc4\\u6bd4\\u4e9a\": \"#00a1b3\", \"\\u5854\\u5409\\u514b\\u65af\\u5766\": \"#ff5a5f\", \"\\u585e\\u5185\\u52a0\\u5c14\": \"#b4a76c\", \"\\u585e\\u5c14\\u7ef4\\u4e9a\": \"#00a1b3\", \"\\u585e\\u62c9\\u5229\\u6602\": \"#ffd266\", \"\\u585e\\u6d66\\u8def\\u65af\": \"#ff1ab1\", \"\\u585e\\u820c\\u5c14\": \"#55d12e\", \"\\u58a8\\u897f\\u54e5\": \"#b4a76c\", \"\\u591a\\u54e5\": \"#005c66\", \"\\u591a\\u7c73\\u5c3c\\u514b\": \"#ff5a5f\", \"\\u591a\\u7c73\\u5c3c\\u52a0\": \"#8ce071\", \"\\u5927\\u4e0d\\u5217\\u98a0\\u53ca\\u5317\\u7231\\u5c14\\u5170\\u8054\\u5408\\u738b\\u56fd\": \"#b4a76c\", \"\\u5927\\u6d0b\\u6d32\": \"#005c66\", \"\\u5965\\u5730\\u5229\": \"#55d12e\", \"\\u59d4\\u5185\\u745e\\u62c9\": \"#ff8083\", \"\\u5b5f\\u52a0\\u62c9\\u56fd\": \"#b4a76c\", \"\\u5b89\\u54e5\\u62c9\": \"#ff3339\", \"\\u5b89\\u572d\\u62c9\": \"#00d1c1\", \"\\u5b89\\u63d0\\u74dc\\u548c\\u5df4\\u5e03\\u8fbe\": \"#00b3a5\", \"\\u5b89\\u9053\\u5c14\": \"#b4a76c\", \"\\u5c3c\\u52a0\\u62c9\\u74dc\": \"#ffd266\", \"\\u5c3c\\u65e5\\u5229\\u4e9a\": \"#988b4e\", \"\\u5c3c\\u65e5\\u5c14\": \"#ff5a5f\", \"\\u5c3c\\u6cca\\u5c14\": \"#cc0086\", \"\\u5df4\\u52d2\\u65af\\u5766\": \"#00d1c1\", \"\\u5df4\\u54c8\\u9a6c\": \"#ff3339\", \"\\u5df4\\u57fa\\u65af\\u5766\": \"#00ffeb\", \"\\u5df4\\u5df4\\u591a\\u65af\": \"#b37e00\", \"\\u5df4\\u5e03\\u4e9a\\u65b0\\u51e0\\u5185\\u4e9a\": \"#007A87\", \"\\u5df4\\u62c9\\u572d\": \"#ff3339\", \"\\u5df4\\u62ff\\u9a6c\": \"#ffb400\", \"\\u5df4\\u6797\": \"#8ce071\", \"\\u5df4\\u897f\": \"#00a1b3\", \"\\u5e03\\u57fa\\u7eb3\\u6cd5\\u7d22\": \"#cbc29a\", \"\\u5e03\\u9686\\u8fea\\u5171\\u548c\\u56fd\": \"#00b3a5\", \"\\u5e0c\\u814a\": \"#ff3339\", \"\\u5e93\\u62c9\\u7d22\\u5c9b\": \"#005c66\", \"\\u5f00\\u66fc\\u7fa4\\u5c9b\": \"#00ffeb\", \"\\u5fb7\\u56fd\": \"#ff8083\", \"\\u610f\\u5927\\u5229\": \"#ff1ab1\", \"\\u62c9\\u8131\\u7ef4\\u4e9a\": \"#005c66\", \"\\u632a\\u5a01\": \"#ff5a5f\", \"\\u6377\\u514b\": \"#bbedab\", \"\\u6469\\u5c14\\u591a\\u74e6\": \"#00ffeb\", \"\\u6469\\u6d1b\\u54e5\": \"#00d1c1\", \"\\u6469\\u7eb3\\u54e5\": \"#ff1ab1\", \"\\u6587\\u83b1\": \"#ffb400\", \"\\u6590\\u6d4e\": \"#7b0051\", \"\\u65af\\u5a01\\u58eb\\u5170\": \"#55d12e\", \"\\u65af\\u6d1b\\u4f10\\u514b\": \"#ffd266\", \"\\u65af\\u6d1b\\u6587\\u5c3c\\u4e9a\": \"#cc0086\", \"\\u65af\\u91cc\\u5170\\u5361\": \"#00a1b3\", \"\\u65b0\\u52a0\\u5761\": \"#988b4e\", \"\\u65b0\\u5580\\u91cc\\u591a\\u5c3c\\u4e9a\": \"#b37e00\", \"\\u65b0\\u897f\\u5170\": \"#988b4e\", \"\\u65e5\\u672c\": \"#55d12e\", \"\\u667a\\u5229\": \"#bbedab\", \"\\u67ec\\u57d4\\u5be8\": \"#b37e00\", \"\\u6839\\u897f\\u5c9b\": \"#ff8083\", \"\\u683c\\u6797\\u90a3\\u8fbe\": \"#bbedab\", \"\\u683c\\u9675\\u5170\": \"#ff1ab1\", \"\\u683c\\u9c81\\u5409\\u4e9a\": \"#988b4e\", \"\\u68b5\\u8482\\u5188\": \"#ff3339\", \"\\u6b27\\u6d32\": \"#8ce071\", \"\\u6bd4\\u5229\\u65f6\": \"#00d1c1\", \"\\u6bdb\\u91cc\\u5854\\u5c3c\\u4e9a\": \"#00b3a5\", \"\\u6bdb\\u91cc\\u6c42\\u65af\": \"#8ce071\", \"\\u6c99\\u7279\\u963f\\u62c9\\u4f2f\": \"#ff5a5f\", \"\\u6cd5\\u56fd\": \"#00a1b3\", \"\\u6cd5\\u5c5e\\u572d\\u4e9a\\u90a3\": \"#8ce071\", \"\\u6cd5\\u5c5e\\u6ce2\\u5229\\u5c3c\\u897f\\u4e9a\": \"#ff5a5f\", \"\\u6cd5\\u7f57\\u7fa4\\u5c9b\": \"#7b0051\", \"\\u6ce2\\u5170\": \"#00d1c1\", \"\\u6ce2\\u591a\\u9ece\\u5404\": \"#ff8083\", \"\\u6ce2\\u9ed1\": \"#ff1ab1\", \"\\u6cf0\\u56fd\": \"#b37e00\", \"\\u6cfd\\u897f\\u5c9b\": \"#b37e00\", \"\\u6d25\\u5df4\\u5e03\\u97e6\": \"#005c66\", \"\\u6d2a\\u90fd\\u62c9\\u65af\": \"#cbc29a\", \"\\u6d77\\u5730\": \"#ff3339\", \"\\u6fb3\\u5927\\u5229\\u4e9a\": \"#00b3a5\", \"\\u7231\\u5c14\\u5170\": \"#bbedab\", \"\\u7231\\u6c99\\u5c3c\\u4e9a\": \"#55d12e\", \"\\u7259\\u4e70\\u52a0\": \"#00a1b3\", \"\\u7279\\u514b\\u65af\\u548c\\u51ef\\u79d1\\u65af\\u7fa4\\u5c9b\": \"#55d12e\", \"\\u7279\\u7acb\\u5c3c\\u8fbe\\u548c\\u591a\\u5df4\\u54e5\": \"#cbc29a\", \"\\u73bb\\u5229\\u7ef4\\u4e9a\": \"#b4a76c\", \"\\u745e\\u5178\": \"#8ce071\", \"\\u745e\\u58eb\": \"#8ce071\", \"\\u74dc\\u5fb7\\u7f57\\u666e\\u5c9b\": \"#bbedab\", \"\\u7559\\u5c3c\\u65fa\": \"#007A87\", \"\\u7559\\u5c3c\\u6c6a\": \"#00a1b3\", \"\\u767d\\u4fc4\\u7f57\\u65af\": \"#ffb400\", \"\\u767e\\u6155\\u5927\": \"#00b3a5\", \"\\u76f4\\u5e03\\u7f57\\u9640\": \"#ffd266\", \"\\u798f\\u514b\\u5170\\u7fa4\\u5c9b\": \"#55d12e\", \"\\u79d1\\u5a01\\u7279\": \"#7b0051\", \"\\u79d1\\u6469\\u7f57\": \"#ffd266\", \"\\u79d1\\u7279\\u8fea\\u74e6\": \"#cc0086\", \"\\u79d1\\u7d22\\u6c83\": \"#ffb400\", \"\\u79d8\\u9c81\": \"#00ffeb\", \"\\u7a81\\u5c3c\\u65af\": \"#b4a76c\", \"\\u7acb\\u9676\\u5b9b\": \"#00b3a5\", \"\\u7d22\\u9a6c\\u91cc\": \"#ff8083\", \"\\u7ea6\\u65e6\": \"#ffd266\", \"\\u7eb3\\u7c73\\u6bd4\\u4e9a\": \"#ff1ab1\", \"\\u7f05\\u7538\": \"#005c66\", \"\\u7f57\\u9a6c\\u5c3c\\u4e9a\": \"#cc0086\", \"\\u7f8e\\u56fd\": \"#8ce071\", \"\\u7f8e\\u5c5e\\u7ef4\\u5c14\\u4eac\\u7fa4\\u5c9b\": \"#ff5a5f\", \"\\u8001\\u631d\": \"#00b3a5\", \"\\u80af\\u5c3c\\u4e9a\": \"#00a1b3\", \"\\u81f3\\u5c0a\\u516c\\u4e3b\\u90ae\\u8f6e\": \"#00d1c1\", \"\\u82ac\\u5170\": \"#ffd266\", \"\\u82cf\\u4e39\": \"#ff5a5f\", \"\\u82cf\\u91cc\\u5357\": \"#00b3a5\", \"\\u82f1\\u56fd\": \"#cbc29a\", \"\\u82f1\\u56fd\\uff08\\u542b\\u5317\\u7231\\u5c14\\u5170\\uff09\": \"#ff8083\", \"\\u82f1\\u5c5e\\u7ef4\\u5c14\\u4eac\\u7fa4\\u5c9b\": \"#988b4e\", \"\\u8377\\u5170\": \"#007A87\", \"\\u8377\\u5170\\u52a0\\u52d2\\u6bd4\\u5730\\u533a\": \"#cc0086\", \"\\u83ab\\u6851\\u6bd4\\u514b\": \"#b37e00\", \"\\u83b1\\u7d22\\u6258\": \"#ff3339\", \"\\u83f2\\u5f8b\\u5bbe\": \"#00d1c1\", \"\\u8428\\u5c14\\u74e6\\u591a\": \"#ff8083\", \"\\u8461\\u8404\\u7259\": \"#988b4e\", \"\\u8499\\u53e4\": \"#ff3339\", \"\\u8499\\u7279\\u585e\\u62c9\\u7279\": \"#b37e00\", \"\\u897f\\u73ed\\u7259\": \"#cc0086\", \"\\u8d1d\\u5b81\": \"#00ffeb\", \"\\u8d5e\\u6bd4\\u4e9a\\u5171\\u548c\\u56fd\": \"#bbedab\", \"\\u8d64\\u9053\\u51e0\\u5185\\u4e9a\": \"#8ce071\", \"\\u8d8a\\u5357\": \"#8ce071\", \"\\u94bb\\u77f3\\u516c\\u4e3b\\u53f7\\u90ae\\u8f6e\": \"#007A87\", \"\\u963f\\u585e\\u62dc\\u7586\": \"#ff8083\", \"\\u963f\\u5bcc\\u6c57\": \"#007A87\", \"\\u963f\\u5c14\\u53ca\\u5229\\u4e9a\": \"#007A87\", \"\\u963f\\u5c14\\u5df4\\u5c3c\\u4e9a\": \"#00ffeb\", \"\\u963f\\u66fc\": \"#cbc29a\", \"\\u963f\\u6839\\u5ef7\": \"#cbc29a\", \"\\u963f\\u8054\\u914b\": \"#00b3a5\", \"\\u963f\\u9c81\\u5df4\": \"#55d12e\", \"\\u975e\\u6d32\": \"#7b0051\", \"\\u97e9\\u56fd\": \"#7b0051\", \"\\u9a6c\\u5c14\\u4ee3\\u592b\": \"#ff3339\", \"\\u9a6c\\u6069\\u5c9b\": \"#ffb400\", \"\\u9a6c\\u62c9\\u7ef4\": \"#ffb400\", \"\\u9a6c\\u63d0\\u5c3c\\u514b\": \"#00ffeb\", \"\\u9a6c\\u6765\\u897f\\u4e9a\": \"#007A87\", \"\\u9a6c\\u7ea6\\u7279\": \"#ff8083\", \"\\u9a6c\\u8033\\u4ed6\": \"#bbedab\", \"\\u9a6c\\u8fbe\\u52a0\\u65af\\u52a0\": \"#b4a76c\", \"\\u9a6c\\u91cc\": \"#00ffeb\", \"\\u9ece\\u5df4\\u5ae9\": \"#bbedab\", \"\\u9ed1\\u5c71\": \"#ff5a5f\"}, \"left_margin\": \"auto\", \"line_interpolation\": \"linear\", \"metrics\": [{\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"cured\", \"optionName\": \"metric_9e79ao6dck_3ipga1admtr\", \"sqlExpression\": \"cured\"}], \"order_desc\": true, \"resample_method\": null, \"resample_rule\": null, \"rich_tooltip\": true, \"rolling_type\": \"None\", \"row_limit\": null, \"send_time_range\": false, \"show_brush\": \"auto\", \"show_legend\": true, \"show_markers\": false, \"slice_id\": 142, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"timeseries_limit_metric\": null, \"url_params\": {}, \"viz_type\": \"line\", \"x_axis_format\": \"smart_date\", \"x_axis_label\": \"\", \"x_axis_showminmax\": false, \"x_ticks_layout\": \"auto\", \"y_axis_bounds\": [null, null], \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"y_axis_showminmax\": false, \"y_log_scale\": false, \"remote_id\": 142, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u6cbb\u6108\u4eba\u6570\u65f6\u95f4\u7ebf",
+                            "viz_type": "line"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "global_allcount",
+                            "datasource_type": "table",
+                            "id": 143,
+                            "params": "{\"adhoc_filters\": [], \"annotation_layers\": [], \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"comparison_type\": \"values\", \"contribution\": false, \"datasource\": \"27__table\", \"granularity_sqla\": \"updateTime\", \"groupby\": [\"continentName\"], \"label_colors\": {\"root\": \"#ff5a5f\", \"\\u4e0d\\u4e39\": \"#988b4e\", \"\\u4e1c\\u5e1d\\u6c76\": \"#ff5a5f\", \"\\u4e2d\\u56fd\": \"#005c66\", \"\\u4e2d\\u975e\\u5171\\u548c\\u56fd\": \"#cc0086\", \"\\u4e39\\u9ea6\": \"#cbc29a\", \"\\u4e4c\\u514b\\u5170\": \"#b4a76c\", \"\\u4e4c\\u5179\\u522b\\u514b\\u65af\\u5766\": \"#00ffeb\", \"\\u4e4c\\u5e72\\u8fbe\": \"#ff1ab1\", \"\\u4e4c\\u62c9\\u572d\": \"#ffb400\", \"\\u4e4d\\u5f97\": \"#bbedab\", \"\\u4e5f\\u95e8\\u5171\\u548c\\u56fd\": \"#cbc29a\", \"\\u4e9a\\u6d32\": \"#00b3a5\", \"\\u4e9a\\u7f8e\\u5c3c\\u4e9a\": \"#ffb400\", \"\\u4ee5\\u8272\\u5217\": \"#b4a76c\", \"\\u4f0a\\u62c9\\u514b\": \"#55d12e\", \"\\u4f0a\\u6717\": \"#bbedab\", \"\\u4f2f\\u5229\\u5179\": \"#988b4e\", \"\\u4f5b\\u5f97\\u89d2\": \"#ff3339\", \"\\u4fc4\\u7f57\\u65af\": \"#ff3339\", \"\\u4fdd\\u52a0\\u5229\\u4e9a\": \"#005c66\", \"\\u514b\\u7f57\\u5730\\u4e9a\": \"#7b0051\", \"\\u5173\\u5c9b\": \"#00a1b3\", \"\\u5176\\u4ed6\": \"#7b0051\", \"\\u5188\\u6bd4\\u4e9a\": \"#cbc29a\", \"\\u51b0\\u5c9b\": \"#00a1b3\", \"\\u51e0\\u5185\\u4e9a\": \"#bbedab\", \"\\u51e0\\u5185\\u4e9a\\u6bd4\\u7ecd\": \"#00a1b3\", \"\\u5217\\u652f\\u6566\\u58eb\\u767b\": \"#cbc29a\", \"\\u521a\\u679c\\uff08\\u5e03\\uff09\": \"#cbc29a\", \"\\u521a\\u679c\\uff08\\u91d1\\uff09\": \"#8ce071\", \"\\u5229\\u6bd4\\u4e9a\": \"#7b0051\", \"\\u5229\\u6bd4\\u91cc\\u4e9a\": \"#ffd266\", \"\\u52a0\\u62ff\\u5927\": \"#ffb400\", \"\\u52a0\\u7eb3\": \"#cc0086\", \"\\u52a0\\u84ec\": \"#ffb400\", \"\\u5308\\u7259\\u5229\": \"#00b3a5\", \"\\u5317\\u7231\\u5c14\\u5170\": \"#005c66\", \"\\u5317\\u7f8e\\u6d32\": \"#00d1c1\", \"\\u5317\\u9a6c\\u5176\\u987f\": \"#b37e00\", \"\\u5317\\u9a6c\\u91cc\\u4e9a\\u7eb3\\u7fa4\\u5c9b\\u8054\\u90a6\": \"#55d12e\", \"\\u5357\\u7f8e\\u6d32\": \"#00d1c1\", \"\\u5357\\u82cf\\u4e39\": \"#00ffeb\", \"\\u5357\\u975e\": \"#b37e00\", \"\\u535a\\u8328\\u74e6\\u7eb3\": \"#ff8083\", \"\\u5361\\u5854\\u5c14\": \"#b37e00\", \"\\u5362\\u65fa\\u8fbe\": \"#988b4e\", \"\\u5362\\u68ee\\u5821\": \"#007A87\", \"\\u5370\\u5ea6\": \"#55d12e\", \"\\u5370\\u5ea6\\u5c3c\\u897f\\u4e9a\": \"#ffd266\", \"\\u5371\\u5730\\u9a6c\\u62c9\": \"#b4a76c\", \"\\u5384\\u74dc\\u591a\\u5c14\": \"#005c66\", \"\\u5384\\u7acb\\u7279\\u91cc\\u4e9a\": \"#ff1ab1\", \"\\u53d9\\u5229\\u4e9a\": \"#ff1ab1\", \"\\u53e4\\u5df4\": \"#cc0086\", \"\\u5409\\u5c14\\u5409\\u65af\\u65af\\u5766\": \"#cc0086\", \"\\u5409\\u5e03\\u63d0\": \"#00d1c1\", \"\\u54c8\\u8428\\u514b\\u65af\\u5766\": \"#ff8083\", \"\\u54e5\\u4f26\\u6bd4\\u4e9a\": \"#ffd266\", \"\\u54e5\\u65af\\u8fbe\\u9ece\\u52a0\": \"#cc0086\", \"\\u5580\\u9ea6\\u9686\": \"#7b0051\", \"\\u571f\\u8033\\u5176\": \"#988b4e\", \"\\u5723\\u5176\\u8328\\u548c\\u5c3c\\u7ef4\\u65af\": \"#007A87\", \"\\u5723\\u5362\\u897f\\u4e9a\": \"#7b0051\", \"\\u5723\\u591a\\u7f8e\\u548c\\u666e\\u6797\\u897f\\u6bd4\": \"#00d1c1\", \"\\u5723\\u5df4\\u6cf0\\u52d2\\u7c73\": \"#007A87\", \"\\u5723\\u5df4\\u6cf0\\u52d2\\u7c73\\u5c9b\": \"#ffd266\", \"\\u5723\\u6587\\u68ee\\u7279\\u548c\\u683c\\u6797\\u7eb3\\u4e01\\u65af\": \"#005c66\", \"\\u5723\\u76ae\\u57c3\\u5c14\\u548c\\u5bc6\\u514b\\u9686\\u7fa4\\u5c9b\": \"#7b0051\", \"\\u5723\\u9a6c\\u4e01\\u5c9b\": \"#ff1ab1\", \"\\u5723\\u9a6c\\u529b\\u8bfa\": \"#00ffeb\", \"\\u572d\\u4e9a\\u90a3\": \"#ff1ab1\", \"\\u5766\\u6851\\u5c3c\\u4e9a\": \"#ffb400\", \"\\u57c3\\u53ca\": \"#007A87\", \"\\u57c3\\u585e\\u4fc4\\u6bd4\\u4e9a\": \"#00a1b3\", \"\\u5854\\u5409\\u514b\\u65af\\u5766\": \"#ff5a5f\", \"\\u585e\\u5185\\u52a0\\u5c14\": \"#b4a76c\", \"\\u585e\\u5c14\\u7ef4\\u4e9a\": \"#00a1b3\", \"\\u585e\\u62c9\\u5229\\u6602\": \"#ffd266\", \"\\u585e\\u6d66\\u8def\\u65af\": \"#ff1ab1\", \"\\u585e\\u820c\\u5c14\": \"#55d12e\", \"\\u58a8\\u897f\\u54e5\": \"#b4a76c\", \"\\u591a\\u54e5\": \"#005c66\", \"\\u591a\\u7c73\\u5c3c\\u514b\": \"#ff5a5f\", \"\\u591a\\u7c73\\u5c3c\\u52a0\": \"#8ce071\", \"\\u5927\\u4e0d\\u5217\\u98a0\\u53ca\\u5317\\u7231\\u5c14\\u5170\\u8054\\u5408\\u738b\\u56fd\": \"#b4a76c\", \"\\u5927\\u6d0b\\u6d32\": \"#005c66\", \"\\u5965\\u5730\\u5229\": \"#55d12e\", \"\\u59d4\\u5185\\u745e\\u62c9\": \"#ff8083\", \"\\u5b5f\\u52a0\\u62c9\\u56fd\": \"#b4a76c\", \"\\u5b89\\u54e5\\u62c9\": \"#ff3339\", \"\\u5b89\\u572d\\u62c9\": \"#00d1c1\", \"\\u5b89\\u63d0\\u74dc\\u548c\\u5df4\\u5e03\\u8fbe\": \"#00b3a5\", \"\\u5b89\\u9053\\u5c14\": \"#b4a76c\", \"\\u5c3c\\u52a0\\u62c9\\u74dc\": \"#ffd266\", \"\\u5c3c\\u65e5\\u5229\\u4e9a\": \"#988b4e\", \"\\u5c3c\\u65e5\\u5c14\": \"#ff5a5f\", \"\\u5c3c\\u6cca\\u5c14\": \"#cc0086\", \"\\u5df4\\u52d2\\u65af\\u5766\": \"#00d1c1\", \"\\u5df4\\u54c8\\u9a6c\": \"#ff3339\", \"\\u5df4\\u57fa\\u65af\\u5766\": \"#00ffeb\", \"\\u5df4\\u5df4\\u591a\\u65af\": \"#b37e00\", \"\\u5df4\\u5e03\\u4e9a\\u65b0\\u51e0\\u5185\\u4e9a\": \"#007A87\", \"\\u5df4\\u62c9\\u572d\": \"#ff3339\", \"\\u5df4\\u62ff\\u9a6c\": \"#ffb400\", \"\\u5df4\\u6797\": \"#8ce071\", \"\\u5df4\\u897f\": \"#00a1b3\", \"\\u5e03\\u57fa\\u7eb3\\u6cd5\\u7d22\": \"#cbc29a\", \"\\u5e03\\u9686\\u8fea\\u5171\\u548c\\u56fd\": \"#00b3a5\", \"\\u5e0c\\u814a\": \"#ff3339\", \"\\u5e93\\u62c9\\u7d22\\u5c9b\": \"#005c66\", \"\\u5f00\\u66fc\\u7fa4\\u5c9b\": \"#00ffeb\", \"\\u5fb7\\u56fd\": \"#ff8083\", \"\\u610f\\u5927\\u5229\": \"#ff1ab1\", \"\\u62c9\\u8131\\u7ef4\\u4e9a\": \"#005c66\", \"\\u632a\\u5a01\": \"#ff5a5f\", \"\\u6377\\u514b\": \"#bbedab\", \"\\u6469\\u5c14\\u591a\\u74e6\": \"#00ffeb\", \"\\u6469\\u6d1b\\u54e5\": \"#00d1c1\", \"\\u6469\\u7eb3\\u54e5\": \"#ff1ab1\", \"\\u6587\\u83b1\": \"#ffb400\", \"\\u6590\\u6d4e\": \"#7b0051\", \"\\u65af\\u5a01\\u58eb\\u5170\": \"#55d12e\", \"\\u65af\\u6d1b\\u4f10\\u514b\": \"#ffd266\", \"\\u65af\\u6d1b\\u6587\\u5c3c\\u4e9a\": \"#cc0086\", \"\\u65af\\u91cc\\u5170\\u5361\": \"#00a1b3\", \"\\u65b0\\u52a0\\u5761\": \"#988b4e\", \"\\u65b0\\u5580\\u91cc\\u591a\\u5c3c\\u4e9a\": \"#b37e00\", \"\\u65b0\\u897f\\u5170\": \"#988b4e\", \"\\u65e5\\u672c\": \"#55d12e\", \"\\u667a\\u5229\": \"#bbedab\", \"\\u67ec\\u57d4\\u5be8\": \"#b37e00\", \"\\u6839\\u897f\\u5c9b\": \"#ff8083\", \"\\u683c\\u6797\\u90a3\\u8fbe\": \"#bbedab\", \"\\u683c\\u9675\\u5170\": \"#ff1ab1\", \"\\u683c\\u9c81\\u5409\\u4e9a\": \"#988b4e\", \"\\u68b5\\u8482\\u5188\": \"#ff3339\", \"\\u6b27\\u6d32\": \"#8ce071\", \"\\u6bd4\\u5229\\u65f6\": \"#00d1c1\", \"\\u6bdb\\u91cc\\u5854\\u5c3c\\u4e9a\": \"#00b3a5\", \"\\u6bdb\\u91cc\\u6c42\\u65af\": \"#8ce071\", \"\\u6c99\\u7279\\u963f\\u62c9\\u4f2f\": \"#ff5a5f\", \"\\u6cd5\\u56fd\": \"#00a1b3\", \"\\u6cd5\\u5c5e\\u572d\\u4e9a\\u90a3\": \"#8ce071\", \"\\u6cd5\\u5c5e\\u6ce2\\u5229\\u5c3c\\u897f\\u4e9a\": \"#ff5a5f\", \"\\u6cd5\\u7f57\\u7fa4\\u5c9b\": \"#7b0051\", \"\\u6ce2\\u5170\": \"#00d1c1\", \"\\u6ce2\\u591a\\u9ece\\u5404\": \"#ff8083\", \"\\u6ce2\\u9ed1\": \"#ff1ab1\", \"\\u6cf0\\u56fd\": \"#b37e00\", \"\\u6cfd\\u897f\\u5c9b\": \"#b37e00\", \"\\u6d25\\u5df4\\u5e03\\u97e6\": \"#005c66\", \"\\u6d2a\\u90fd\\u62c9\\u65af\": \"#cbc29a\", \"\\u6d77\\u5730\": \"#ff3339\", \"\\u6fb3\\u5927\\u5229\\u4e9a\": \"#00b3a5\", \"\\u7231\\u5c14\\u5170\": \"#bbedab\", \"\\u7231\\u6c99\\u5c3c\\u4e9a\": \"#55d12e\", \"\\u7259\\u4e70\\u52a0\": \"#00a1b3\", \"\\u7279\\u514b\\u65af\\u548c\\u51ef\\u79d1\\u65af\\u7fa4\\u5c9b\": \"#55d12e\", \"\\u7279\\u7acb\\u5c3c\\u8fbe\\u548c\\u591a\\u5df4\\u54e5\": \"#cbc29a\", \"\\u73bb\\u5229\\u7ef4\\u4e9a\": \"#b4a76c\", \"\\u745e\\u5178\": \"#8ce071\", \"\\u745e\\u58eb\": \"#8ce071\", \"\\u74dc\\u5fb7\\u7f57\\u666e\\u5c9b\": \"#bbedab\", \"\\u7559\\u5c3c\\u65fa\": \"#007A87\", \"\\u7559\\u5c3c\\u6c6a\": \"#00a1b3\", \"\\u767d\\u4fc4\\u7f57\\u65af\": \"#ffb400\", \"\\u767e\\u6155\\u5927\": \"#00b3a5\", \"\\u76f4\\u5e03\\u7f57\\u9640\": \"#ffd266\", \"\\u798f\\u514b\\u5170\\u7fa4\\u5c9b\": \"#55d12e\", \"\\u79d1\\u5a01\\u7279\": \"#7b0051\", \"\\u79d1\\u6469\\u7f57\": \"#ffd266\", \"\\u79d1\\u7279\\u8fea\\u74e6\": \"#cc0086\", \"\\u79d1\\u7d22\\u6c83\": \"#ffb400\", \"\\u79d8\\u9c81\": \"#00ffeb\", \"\\u7a81\\u5c3c\\u65af\": \"#b4a76c\", \"\\u7acb\\u9676\\u5b9b\": \"#00b3a5\", \"\\u7d22\\u9a6c\\u91cc\": \"#ff8083\", \"\\u7ea6\\u65e6\": \"#ffd266\", \"\\u7eb3\\u7c73\\u6bd4\\u4e9a\": \"#ff1ab1\", \"\\u7f05\\u7538\": \"#005c66\", \"\\u7f57\\u9a6c\\u5c3c\\u4e9a\": \"#cc0086\", \"\\u7f8e\\u56fd\": \"#8ce071\", \"\\u7f8e\\u5c5e\\u7ef4\\u5c14\\u4eac\\u7fa4\\u5c9b\": \"#ff5a5f\", \"\\u8001\\u631d\": \"#00b3a5\", \"\\u80af\\u5c3c\\u4e9a\": \"#00a1b3\", \"\\u81f3\\u5c0a\\u516c\\u4e3b\\u90ae\\u8f6e\": \"#00d1c1\", \"\\u82ac\\u5170\": \"#ffd266\", \"\\u82cf\\u4e39\": \"#ff5a5f\", \"\\u82cf\\u91cc\\u5357\": \"#00b3a5\", \"\\u82f1\\u56fd\": \"#cbc29a\", \"\\u82f1\\u56fd\\uff08\\u542b\\u5317\\u7231\\u5c14\\u5170\\uff09\": \"#ff8083\", \"\\u82f1\\u5c5e\\u7ef4\\u5c14\\u4eac\\u7fa4\\u5c9b\": \"#988b4e\", \"\\u8377\\u5170\": \"#007A87\", \"\\u8377\\u5170\\u52a0\\u52d2\\u6bd4\\u5730\\u533a\": \"#cc0086\", \"\\u83ab\\u6851\\u6bd4\\u514b\": \"#b37e00\", \"\\u83b1\\u7d22\\u6258\": \"#ff3339\", \"\\u83f2\\u5f8b\\u5bbe\": \"#00d1c1\", \"\\u8428\\u5c14\\u74e6\\u591a\": \"#ff8083\", \"\\u8461\\u8404\\u7259\": \"#988b4e\", \"\\u8499\\u53e4\": \"#ff3339\", \"\\u8499\\u7279\\u585e\\u62c9\\u7279\": \"#b37e00\", \"\\u897f\\u73ed\\u7259\": \"#cc0086\", \"\\u8d1d\\u5b81\": \"#00ffeb\", \"\\u8d5e\\u6bd4\\u4e9a\\u5171\\u548c\\u56fd\": \"#bbedab\", \"\\u8d64\\u9053\\u51e0\\u5185\\u4e9a\": \"#8ce071\", \"\\u8d8a\\u5357\": \"#8ce071\", \"\\u94bb\\u77f3\\u516c\\u4e3b\\u53f7\\u90ae\\u8f6e\": \"#007A87\", \"\\u963f\\u585e\\u62dc\\u7586\": \"#ff8083\", \"\\u963f\\u5bcc\\u6c57\": \"#007A87\", \"\\u963f\\u5c14\\u53ca\\u5229\\u4e9a\": \"#007A87\", \"\\u963f\\u5c14\\u5df4\\u5c3c\\u4e9a\": \"#00ffeb\", \"\\u963f\\u66fc\": \"#cbc29a\", \"\\u963f\\u6839\\u5ef7\": \"#cbc29a\", \"\\u963f\\u8054\\u914b\": \"#00b3a5\", \"\\u963f\\u9c81\\u5df4\": \"#55d12e\", \"\\u975e\\u6d32\": \"#7b0051\", \"\\u97e9\\u56fd\": \"#7b0051\", \"\\u9a6c\\u5c14\\u4ee3\\u592b\": \"#ff3339\", \"\\u9a6c\\u6069\\u5c9b\": \"#ffb400\", \"\\u9a6c\\u62c9\\u7ef4\": \"#ffb400\", \"\\u9a6c\\u63d0\\u5c3c\\u514b\": \"#00ffeb\", \"\\u9a6c\\u6765\\u897f\\u4e9a\": \"#007A87\", \"\\u9a6c\\u7ea6\\u7279\": \"#ff8083\", \"\\u9a6c\\u8033\\u4ed6\": \"#bbedab\", \"\\u9a6c\\u8fbe\\u52a0\\u65af\\u52a0\": \"#b4a76c\", \"\\u9a6c\\u91cc\": \"#00ffeb\", \"\\u9ece\\u5df4\\u5ae9\": \"#bbedab\", \"\\u9ed1\\u5c71\": \"#ff5a5f\"}, \"left_margin\": \"auto\", \"line_interpolation\": \"linear\", \"metrics\": [{\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"dead\", \"optionName\": \"metric_6jz7co16tut_p8km45yukh\", \"sqlExpression\": \"dead\"}], \"order_desc\": true, \"resample_method\": null, \"resample_rule\": null, \"rich_tooltip\": true, \"rolling_type\": \"None\", \"row_limit\": null, \"send_time_range\": false, \"show_brush\": \"auto\", \"show_legend\": true, \"show_markers\": false, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"timeseries_limit_metric\": null, \"url_params\": {}, \"viz_type\": \"line\", \"x_axis_format\": \"smart_date\", \"x_axis_label\": \"\", \"x_axis_showminmax\": false, \"x_ticks_layout\": \"auto\", \"y_axis_bounds\": [null, null], \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"y_axis_showminmax\": false, \"y_log_scale\": false, \"remote_id\": 143, \"datasource_name\": \"global_allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u7403\u6b7b\u4ea1\u4eba\u6570\u65f6\u95f4\u7ebf",
+                            "viz_type": "line"
+                        }
+                    }
+                ],
+                "slug": null
+            }
+        }
+    ],
+    "datasources": [
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "column_name": "updateTime",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 517,
+                            "is_active": true,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 26,
+                            "type": "DATE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "column_name": "continentName",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 518,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 26,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "column_name": "countryName",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 519,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 26,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "column_name": "province_confirmedCount",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 520,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 26,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": false,
+                "main_dttm_col": "updateTime",
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T21:45:14"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "COUNT(*)",
+                            "id": 34,
+                            "metric_name": "count",
+                            "metric_type": "count",
+                            "table_id": 26,
+                            "verbose_name": "COUNT(*)",
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 26, \"database_name\": \"mydata_test\"}",
+                "schema": null,
+                "sql": null,
+                "table_name": "global_force_directed_graph",
+                "template_params": null
+            }
+        },
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "column_name": "updateTime",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 521,
+                            "is_active": true,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "DATE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "column_name": "continentName",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 522,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "column_name": "confirmed",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 523,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "column_name": "cured",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 524,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "column_name": "dead",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 525,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T23:15:06"
+                            },
+                            "column_name": "diff",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T23:15:06"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 526,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T23:15:06"
+                            },
+                            "column_name": "id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T23:15:06"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 527,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "BIGINT",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T23:15:06"
+                            },
+                            "column_name": "diff_day",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T23:15:06"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 528,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 27,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": false,
+                "main_dttm_col": "updateTime",
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T22:53:48"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "COUNT(*)",
+                            "id": 35,
+                            "metric_name": "count",
+                            "metric_type": "count",
+                            "table_id": 27,
+                            "verbose_name": "COUNT(*)",
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 27, \"database_name\": \"mydata_test\"}",
+                "schema": null,
+                "sql": null,
+                "table_name": "global_allcount",
+                "template_params": null
+            }
+        }
+    ]
+}

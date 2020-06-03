@@ -1,17 +1,21 @@
 # 2019年新型冠状病毒确诊数据分析项目
 
 ### 目的：
-分析从1月22日至5月28日的新型冠状病毒感染人数，实现时间段内数据回放。
+分析从1月22日至5月28日的新型冠状病毒感染情况，实现时间段内数据回放。
 
 ### 数据来源：
 取自[2019新型冠状病毒疫情时间序列数据仓库](https://github.com/BlankerL/DXY-COVID-19-Data)，目前数据更新至5月28日。
 
 ### 文件说明：
-- [covid_mysql.sql](script/covid_mysql.sql) : MySQL查询语句
-- [covid2019.ipynb](script/covid2019.ipynb) : Python数据预处理
+- [covid_mysql.sql](script/covid_mysql.sql) : MySQL查询语句（国内）
+-  [covid_global.sql](script/[covid_global.sql) : MySQL查询语句（全球）
+- [covid2019.ipynb](script/covid2019.ipynb) : Python数据预处理（国内）
+-  [covid2019_global.ipynb](script/covid2019_global.ipynb) : Python数据预处理（国内）
 - [DXYArea_china.csv](csv/DXYArea_china.csv) : 疫情数据，取自[2019新型冠状病毒疫情时间序列数据仓库](https://github.com/BlankerL/DXY-COVID-19-Data)仓库
-- [DXYArea_china_result.csv](csv/DXYArea_china_result.csv) : 数据经过Python预处理后输出结果
-- [dashboard.json](json/dashboard.json) : superset dashboard数据导出备份
+- [DXYArea_china_result.csv](csv/DXYArea_china_result.csv) : 数据经过Python预处理后输出结果（国内）
+-  [DXYArea_global.csv](csv/DXYArea_global.csv) : 数据经过Python预处理后输出结果（全球）
+- [dashboard.json](json/dashboard.json) : superset dashboard数据导出备份（国内）
+- [dashboard_global.json](json/dashboard_global.json) : superset dashboard数据导出备份（全球）
 
 ### 疫情数据预处理说明：
 取自仓库的数据部分日期数据丢失，为保证数据连续性：
@@ -21,7 +25,7 @@
 - 数据存在一部分误差
 
 ### 实现方式：
-- Python : PyCharm
+- Python : PyCharm、Jupyter Notebook
 - Mysql : Navicat
 - superset数据分析平台
 
@@ -38,8 +42,13 @@
 ![image](image/dashboard_7.jpg)
 ![image](image/dashboard_8.jpg)
 ![image](image/dashboard_9.jpg)  
+  
 
+更新：更新全球数据  
 
+![image](image/dashboard_10.jpg)
+![image](image/dashboard_11.jpg)
+![image](image/dashboard_12.jpg) 
 
 
 
