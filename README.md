@@ -31,7 +31,12 @@
 ![image](image/dashboard_3.jpg)
 ![image](image/dashboard_4.jpg)
 ![image](image/dashboard_5.jpg)
-![image](image/dashboard_6.jpg)
+![image](image/dashboard_6.jpg)  
+
+更新：更新四个指标
+![image](image/dashboard_7.jpg)
+![image](image/dashboard_8.jpg)
+![image](image/dashboard_9.jpg)  
 
 
 

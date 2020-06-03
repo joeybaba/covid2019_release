@@ -15,7 +15,8 @@ SHOW GLOBAL VARIABLES LIKE 'local_infile';
 
 # 所有时间-省份-确诊人数
 DROP TABLE IF EXISTS index_province_confirmedCount;
-CREATE TABLE index_province_confirmedCount SELECT indextime ,provinceName ,province_confirmedCount FROM covid2019_3 GROUP BY indextime ,provinceName;
+CREATE TABLE index_province_confirmedCount
+SELECT indextime ,provinceName ,province_confirmedCount FROM covid2019_3 GROUP BY indextime ,provinceName;
 
 # 全部时间每日全国确诊人数
 DROP TABLE IF EXISTS allcount;
@@ -100,3 +101,20 @@ ALTER TABLE allcount ADD COLUMN	diff_day DOUBLE NOT NULL;
 UPDATE allcount SET diff_day = sum_province_confirmedCount - diff;
 UPDATE allcount SET diff_day = 0 WHERE id =1;
 
+
+# 更新
+
+# 全部时间每个省治愈\死亡人数
+DROP TABLE IF EXISTS index_pronvince_cured_dead_count;
+CREATE TABLE index_pronvince_cured_dead_count
+SELECT indextime ,provinceName ,province_curedCount ,province_deadCount FROM covid2019_3 GROUP BY indextime, provinceName;
+
+# 全部时间总治愈人数
+DROP TABLE IF EXISTS curedcount;
+CREATE TABLE curedcount
+SELECT indextime ,sum(province_curedCount) sum_province_confirmedCount FROM index_pronvince_cured_dead_count GROUP BY indextime;
+
+# 全部时间总死亡人数
+DROP TABLE IF EXISTS deadcount;
+CREATE TABLE deadcount
+SELECT indextime ,sum(province_deadCount) sum_province_deadCount FROM index_pronvince_cured_dead_count GROUP BY indextime;

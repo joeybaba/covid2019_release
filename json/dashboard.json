@@ -6,7 +6,7 @@
                 "dashboard_title": "covid2019",
                 "description": null,
                 "json_metadata": "{\"timed_refresh_immune_slices\": [], \"expanded_slices\": {}, \"refresh_frequency\": 0, \"default_filters\": \"{\\\"118\\\": {\\\"__time_range\\\": \\\"Last month\\\"}}\", \"filter_scopes\": {\"118\": {\"indextime\": {\"scope\": [\"ROOT_ID\"], \"immune\": []}, \"__time_range\": {\"scope\": [\"ROOT_ID\"], \"immune\": []}}}, \"remote_id\": 7}",
-                "position_json": "{\"CHART--v5xKURZ0m\":{\"children\":[],\"id\":\"CHART--v5xKURZ0m\",\"meta\":{\"chartId\":121,\"height\":81,\"sliceName\":\"\\u5404\\u7701\\u5e02\\u786e\\u8bca\\u6570\\u636e\\u8868\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-1uIvUi17C\"],\"type\":\"CHART\"},\"CHART-2aN_nyJ69f\":{\"children\":[],\"id\":\"CHART-2aN_nyJ69f\",\"meta\":{\"chartId\":125,\"height\":50,\"sliceName\":\"\\u7701-\\u5e02-\\u786e\\u8bca\\u4eba\\u6570\\u900f\\u89c6\\u8868\",\"width\":4},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-AHrM9ekfu\"],\"type\":\"CHART\"},\"CHART-AkDhxJl5pd\":{\"children\":[],\"id\":\"CHART-AkDhxJl5pd\",\"meta\":{\"chartId\":114,\"height\":50,\"sliceName\":\"\\u786e\\u8bca\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-3-eGCEbyh\"],\"type\":\"CHART\"},\"CHART-BJ6qwaG93W\":{\"children\":[],\"id\":\"CHART-BJ6qwaG93W\",\"meta\":{\"chartId\":116,\"height\":20,\"sliceName\":\"\\u786e\\u8bca\\u603b\\u4eba\\u6570\",\"width\":1},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-R5SNyw90kq\":{\"children\":[],\"id\":\"CHART-R5SNyw90kq\",\"meta\":{\"chartId\":126,\"height\":50,\"sliceName\":\"\\u5404\\u7701\\u786e\\u8bca\\u603b\\u4eba\\u6570\",\"width\":8},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-AHrM9ekfu\"],\"type\":\"CHART\"},\"CHART-XLAepVk7AG\":{\"children\":[],\"id\":\"CHART-XLAepVk7AG\",\"meta\":{\"chartId\":118,\"height\":50,\"sliceName\":\"\\u7b5b\\u9009\",\"width\":4},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-iZNvmMwjWY\":{\"children\":[],\"id\":\"CHART-iZNvmMwjWY\",\"meta\":{\"chartId\":123,\"height\":70,\"sliceName\":\"\\u5404\\u7701\\u5e02\\u786e\\u8bca\\u5173\\u7cfb\\u56fe\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-VRg5bH69p\"],\"type\":\"CHART\"},\"CHART-nme4zx5rES\":{\"children\":[],\"id\":\"CHART-nme4zx5rES\",\"meta\":{\"chartId\":115,\"height\":51,\"sliceName\":\"\\u786e\\u8bca\\u603b\\u4eba\\u6570\\u589e\\u52a0\\u8d8b\\u52bf\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-w92_AAHzt\"],\"type\":\"CHART\"},\"CHART-q5qS8d09k_\":{\"children\":[],\"id\":\"CHART-q5qS8d09k_\",\"meta\":{\"chartId\":120,\"height\":53,\"sliceName\":\"\\u786e\\u8bca\\u5730\\u56fe\\u6570\\u636e\",\"width\":5},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-tP6bnPkfJJ\":{\"children\":[],\"id\":\"CHART-tP6bnPkfJJ\",\"meta\":{\"chartId\":128,\"height\":20,\"sliceName\":\"\\u589e\\u957f\\u901f\\u5ea6\",\"width\":1},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-xxW2c-YzTr\":{\"children\":[],\"id\":\"CHART-xxW2c-YzTr\",\"meta\":{\"chartId\":124,\"height\":81,\"sliceName\":\"\\u7701-\\u5e02-\\u786e\\u8bca\\u4eba\\u6570\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-OqBsJlfym\"],\"type\":\"CHART\"},\"CHART-zNHMzveWKS\":{\"children\":[],\"id\":\"CHART-zNHMzveWKS\",\"meta\":{\"chartId\":127,\"height\":20,\"sliceName\":\"\\u786e\\u8bca\\u589e\\u52a0\\u603b\\u6570\",\"width\":1},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"DASHBOARD_VERSION_KEY\":\"v2\",\"GRID_ID\":{\"children\":[\"HEADER-9Vks_p-8ZK\",\"ROW-mxKwXgSjyS\",\"ROW-w92_AAHzt\",\"ROW-3-eGCEbyh\",\"ROW-1uIvUi17C\",\"ROW-VRg5bH69p\",\"ROW-OqBsJlfym\",\"ROW-AHrM9ekfu\"],\"id\":\"GRID_ID\",\"parents\":[\"ROOT_ID\"],\"type\":\"GRID\"},\"HEADER-9Vks_p-8ZK\":{\"children\":[],\"id\":\"HEADER-9Vks_p-8ZK\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"COVID2019\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER_ID\":{\"id\":\"HEADER_ID\",\"meta\":{\"text\":\"covid2019\"},\"type\":\"HEADER\"},\"ROOT_ID\":{\"children\":[\"GRID_ID\"],\"id\":\"ROOT_ID\",\"type\":\"ROOT\"},\"ROW-1uIvUi17C\":{\"children\":[\"CHART--v5xKURZ0m\"],\"id\":\"ROW-1uIvUi17C\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-3-eGCEbyh\":{\"children\":[\"CHART-AkDhxJl5pd\"],\"id\":\"ROW-3-eGCEbyh\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-AHrM9ekfu\":{\"children\":[\"CHART-2aN_nyJ69f\",\"CHART-R5SNyw90kq\"],\"id\":\"ROW-AHrM9ekfu\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-OqBsJlfym\":{\"children\":[\"CHART-xxW2c-YzTr\"],\"id\":\"ROW-OqBsJlfym\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-VRg5bH69p\":{\"children\":[\"CHART-iZNvmMwjWY\"],\"id\":\"ROW-VRg5bH69p\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-mxKwXgSjyS\":{\"children\":[\"CHART-XLAepVk7AG\",\"CHART-BJ6qwaG93W\",\"CHART-zNHMzveWKS\",\"CHART-tP6bnPkfJJ\",\"CHART-q5qS8d09k_\"],\"id\":\"ROW-mxKwXgSjyS\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-w92_AAHzt\":{\"children\":[\"CHART-nme4zx5rES\"],\"id\":\"ROW-w92_AAHzt\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"}}",
+                "position_json": "{\"CHART--v5xKURZ0m\":{\"children\":[],\"id\":\"CHART--v5xKURZ0m\",\"meta\":{\"chartId\":121,\"height\":81,\"sliceName\":\"\\u5404\\u7701\\u5e02\\u786e\\u8bca\\u6570\\u636e\\u8868\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-1uIvUi17C\"],\"type\":\"CHART\"},\"CHART-2ICqfzAd36\":{\"children\":[],\"id\":\"CHART-2ICqfzAd36\",\"meta\":{\"chartId\":132,\"height\":51,\"sliceName\":\"\\u5168\\u56fd\\u6b7b\\u4ea1\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-aKA4sLoMkK\"],\"type\":\"CHART\"},\"CHART-2aN_nyJ69f\":{\"children\":[],\"id\":\"CHART-2aN_nyJ69f\",\"meta\":{\"chartId\":125,\"height\":50,\"sliceName\":\"\\u7701-\\u5e02-\\u786e\\u8bca\\u4eba\\u6570\\u900f\\u89c6\\u8868\",\"width\":4},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-AHrM9ekfu\"],\"type\":\"CHART\"},\"CHART-AkDhxJl5pd\":{\"children\":[],\"id\":\"CHART-AkDhxJl5pd\",\"meta\":{\"chartId\":114,\"height\":50,\"sliceName\":\"\\u786e\\u8bca\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-3-eGCEbyh\"],\"type\":\"CHART\"},\"CHART-BJ6qwaG93W\":{\"children\":[],\"id\":\"CHART-BJ6qwaG93W\",\"meta\":{\"chartId\":116,\"height\":20,\"sliceName\":\"\\u786e\\u8bca\\u603b\\u4eba\\u6570\",\"width\":1},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-R5SNyw90kq\":{\"children\":[],\"id\":\"CHART-R5SNyw90kq\",\"meta\":{\"chartId\":126,\"height\":50,\"sliceName\":\"\\u5404\\u7701\\u786e\\u8bca\\u603b\\u4eba\\u6570\",\"width\":8},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-AHrM9ekfu\"],\"type\":\"CHART\"},\"CHART-VlfKbSc5e0\":{\"children\":[],\"id\":\"CHART-VlfKbSc5e0\",\"meta\":{\"chartId\":129,\"height\":21,\"sliceName\":\"\\u6cbb\\u6108\\u603b\\u4eba\\u6570\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-iTcLXOcS3\"],\"type\":\"CHART\"},\"CHART-XLAepVk7AG\":{\"children\":[],\"id\":\"CHART-XLAepVk7AG\",\"meta\":{\"chartId\":118,\"height\":50,\"sliceName\":\"\\u7b5b\\u9009\",\"width\":4},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-iZNvmMwjWY\":{\"children\":[],\"id\":\"CHART-iZNvmMwjWY\",\"meta\":{\"chartId\":123,\"height\":70,\"sliceName\":\"\\u5404\\u7701\\u5e02\\u786e\\u8bca\\u5173\\u7cfb\\u56fe\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-VRg5bH69p\"],\"type\":\"CHART\"},\"CHART-nme4zx5rES\":{\"children\":[],\"id\":\"CHART-nme4zx5rES\",\"meta\":{\"chartId\":115,\"height\":51,\"sliceName\":\"\\u786e\\u8bca\\u603b\\u4eba\\u6570\\u589e\\u52a0\\u8d8b\\u52bf\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-w92_AAHzt\"],\"type\":\"CHART\"},\"CHART-q5qS8d09k_\":{\"children\":[],\"id\":\"CHART-q5qS8d09k_\",\"meta\":{\"chartId\":120,\"height\":53,\"sliceName\":\"\\u786e\\u8bca\\u5730\\u56fe\\u6570\\u636e\",\"width\":5},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-qBmBGQ1J_9\":{\"children\":[],\"id\":\"CHART-qBmBGQ1J_9\",\"meta\":{\"chartId\":130,\"height\":20,\"sliceName\":\"\\u5168\\u56fd\\u603b\\u4ea1\\u4eba\\u6570\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-iTcLXOcS3\"],\"type\":\"CHART\"},\"CHART-tP6bnPkfJJ\":{\"children\":[],\"id\":\"CHART-tP6bnPkfJJ\",\"meta\":{\"chartId\":128,\"height\":20,\"sliceName\":\"\\u589e\\u957f\\u901f\\u5ea6\",\"width\":1},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"CHART-xLHYxwttgM\":{\"children\":[],\"id\":\"CHART-xLHYxwttgM\",\"meta\":{\"chartId\":131,\"height\":52,\"sliceName\":\"\\u5168\\u56fd\\u6cbb\\u6108\\u4eba\\u6570\\u65f6\\u95f4\\u7ebf\",\"width\":12},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ND3pqsB9V\"],\"type\":\"CHART\"},\"CHART-xxW2c-YzTr\":{\"children\":[],\"id\":\"CHART-xxW2c-YzTr\",\"meta\":{\"chartId\":124,\"height\":81,\"sliceName\":\"\\u7701-\\u5e02-\\u786e\\u8bca\\u4eba\\u6570\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-OqBsJlfym\"],\"type\":\"CHART\"},\"CHART-zNHMzveWKS\":{\"children\":[],\"id\":\"CHART-zNHMzveWKS\",\"meta\":{\"chartId\":127,\"height\":20,\"sliceName\":\"\\u786e\\u8bca\\u589e\\u52a0\\u4eba\\u6570\",\"width\":1},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-mxKwXgSjyS\"],\"type\":\"CHART\"},\"DASHBOARD_VERSION_KEY\":\"v2\",\"GRID_ID\":{\"children\":[\"HEADER-9Vks_p-8ZK\",\"ROW-mxKwXgSjyS\",\"ROW-w92_AAHzt\",\"ROW-3-eGCEbyh\",\"ROW-1uIvUi17C\",\"ROW-VRg5bH69p\",\"ROW-OqBsJlfym\",\"ROW-AHrM9ekfu\",\"ROW-iTcLXOcS3\",\"ROW-aKA4sLoMkK\",\"ROW-ND3pqsB9V\"],\"id\":\"GRID_ID\",\"parents\":[\"ROOT_ID\"],\"type\":\"GRID\"},\"HEADER-9Vks_p-8ZK\":{\"children\":[],\"id\":\"HEADER-9Vks_p-8ZK\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"COVID2019\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER_ID\":{\"id\":\"HEADER_ID\",\"meta\":{\"text\":\"covid2019\"},\"type\":\"HEADER\"},\"ROOT_ID\":{\"children\":[\"GRID_ID\"],\"id\":\"ROOT_ID\",\"type\":\"ROOT\"},\"ROW-1uIvUi17C\":{\"children\":[\"CHART--v5xKURZ0m\"],\"id\":\"ROW-1uIvUi17C\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-3-eGCEbyh\":{\"children\":[\"CHART-AkDhxJl5pd\"],\"id\":\"ROW-3-eGCEbyh\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-AHrM9ekfu\":{\"children\":[\"CHART-2aN_nyJ69f\",\"CHART-R5SNyw90kq\"],\"id\":\"ROW-AHrM9ekfu\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-ND3pqsB9V\":{\"children\":[\"CHART-xLHYxwttgM\"],\"id\":\"ROW-ND3pqsB9V\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-OqBsJlfym\":{\"children\":[\"CHART-xxW2c-YzTr\"],\"id\":\"ROW-OqBsJlfym\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-VRg5bH69p\":{\"children\":[\"CHART-iZNvmMwjWY\"],\"id\":\"ROW-VRg5bH69p\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-aKA4sLoMkK\":{\"children\":[\"CHART-2ICqfzAd36\"],\"id\":\"ROW-aKA4sLoMkK\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-iTcLXOcS3\":{\"children\":[\"CHART-VlfKbSc5e0\",\"CHART-qBmBGQ1J_9\"],\"id\":\"ROW-iTcLXOcS3\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-mxKwXgSjyS\":{\"children\":[\"CHART-XLAepVk7AG\",\"CHART-BJ6qwaG93W\",\"CHART-zNHMzveWKS\",\"CHART-tP6bnPkfJJ\",\"CHART-q5qS8d09k_\"],\"id\":\"ROW-mxKwXgSjyS\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-w92_AAHzt\":{\"children\":[\"CHART-nme4zx5rES\"],\"id\":\"ROW-w92_AAHzt\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"}}",
                 "slices": [
                     {
                         "__Slice__": {
@@ -124,7 +124,7 @@
                             "datasource_name": "allcount",
                             "datasource_type": "table",
                             "id": 127,
-                            "params": "{\"adhoc_filters\": [], \"datasource\": \"19__table\", \"granularity_sqla\": \"indextime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"diff_day\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 512, \"is_dttm\": false, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"SUM(diff_day)\", \"optionName\": \"metric_oyvm0anzmhi_2m7o8szh85t\", \"sqlExpression\": null}, \"slice_id\": 127, \"subheader\": \"\", \"subheader_font_size\": 0.125, \"time_range\": \"Last month\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {\"preselect_filters\": \"{\\\"118\\\": {\\\"__time_range\\\": \\\"Last month\\\"}}\"}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"+,\", \"remote_id\": 127, \"datasource_name\": \"allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"19__table\", \"granularity_sqla\": \"indextime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"diff_day\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 512, \"is_dttm\": false, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"SUM(diff_day)\", \"optionName\": \"metric_oyvm0anzmhi_2m7o8szh85t\", \"sqlExpression\": null}, \"slice_id\": 127, \"subheader\": \"\", \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {\"preselect_filters\": \"{\\\"118\\\": {\\\"__time_range\\\": \\\"Last month\\\"}}\"}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 127, \"datasource_name\": \"allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
                             "slice_name": "\u786e\u8bca\u589e\u52a0\u4eba\u6570",
                             "viz_type": "big_number_total"
                         }
@@ -138,6 +138,50 @@
                             "params": "{\"adhoc_filters\": [], \"datasource\": \"19__table\", \"granularity_sqla\": \"indextime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"diff_day /diff\", \"optionName\": \"metric_7alzk662y16_r4vggxuyfo8\", \"sqlExpression\": \"diff_day /diff\"}, \"subheader_font_size\": 0.125, \"time_range\": \"2020-02-13T00:00:00 : 2020-03-02T00:00:00\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \",.1%\", \"remote_id\": 128, \"datasource_name\": \"allcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
                             "slice_name": "\u589e\u957f\u901f\u5ea6",
                             "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "curedcount",
+                            "datasource_type": "table",
+                            "id": 129,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"24__table\", \"granularity_sqla\": \"indextime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"sum_province_confirmedCount\", \"optionName\": \"metric_i1syw61vsp9_kzxv5zvwtwd\", \"sqlExpression\": \"sum_province_confirmedCount\"}, \"slice_id\": 129, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 129, \"datasource_name\": \"curedcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u6cbb\u6108\u603b\u4eba\u6570",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "deadcount",
+                            "datasource_type": "table",
+                            "id": 130,
+                            "params": "{\"adhoc_filters\": [], \"datasource\": \"25__table\", \"granularity_sqla\": \"indextime\", \"header_font_size\": 0.3, \"metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"sum_province_deadCount\", \"optionName\": \"metric_acv6ogspro_ycl84uih2k\", \"sqlExpression\": \"sum_province_deadCount\"}, \"slice_id\": 130, \"subheader_font_size\": 0.125, \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 130, \"datasource_name\": \"deadcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u56fd\u603b\u4ea1\u4eba\u6570",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "curedcount",
+                            "datasource_type": "table",
+                            "id": 131,
+                            "params": "{\"adhoc_filters\": [], \"annotation_layers\": [], \"bottom_margin\": \"auto\", \"color_scheme\": \"SUPERSET_DEFAULT\", \"comparison_type\": \"values\", \"contribution\": false, \"datasource\": \"24__table\", \"granularity_sqla\": \"indextime\", \"groupby\": [], \"label_colors\": {}, \"left_margin\": \"auto\", \"line_interpolation\": \"linear\", \"metrics\": [{\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"sum_province_confirmedCount\", \"optionName\": \"metric_ajnd3g2kipl_fpunpzdpd65\", \"sqlExpression\": \"sum_province_confirmedCount\"}], \"order_desc\": false, \"resample_method\": null, \"resample_rule\": null, \"rich_tooltip\": true, \"rolling_type\": \"None\", \"row_limit\": 50000, \"send_time_range\": false, \"show_brush\": \"auto\", \"show_legend\": false, \"show_markers\": false, \"slice_id\": 131, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"timeseries_limit_metric\": {\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"indextime\", \"optionName\": \"metric_4g512nsjhwn_abzg8rvauso\", \"sqlExpression\": \"indextime\"}, \"url_params\": {}, \"viz_type\": \"line\", \"x_axis_format\": \"smart_date\", \"x_axis_label\": \"\", \"x_axis_showminmax\": false, \"x_ticks_layout\": \"auto\", \"y_axis_bounds\": [null, null], \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"y_axis_showminmax\": false, \"y_log_scale\": false, \"remote_id\": 131, \"datasource_name\": \"curedcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u56fd\u6cbb\u6108\u4eba\u6570\u65f6\u95f4\u7ebf",
+                            "viz_type": "line"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "deadcount",
+                            "datasource_type": "table",
+                            "id": 132,
+                            "params": "{\"adhoc_filters\": [], \"annotation_layers\": [], \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"comparison_type\": \"values\", \"contribution\": false, \"datasource\": \"25__table\", \"granularity_sqla\": \"indextime\", \"groupby\": [], \"label_colors\": {\"sum_province_confirmedCount\": \"#ff5a5f\"}, \"left_margin\": \"auto\", \"line_interpolation\": \"linear\", \"metrics\": [{\"aggregate\": null, \"column\": null, \"expressionType\": \"SQL\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"sum_province_deadCount\", \"optionName\": \"metric_8b9iopdxbj_oweukak7tv\", \"sqlExpression\": \"sum_province_deadCount\"}], \"order_desc\": true, \"resample_method\": null, \"resample_rule\": null, \"rich_tooltip\": true, \"rolling_type\": \"None\", \"row_limit\": null, \"send_time_range\": false, \"show_brush\": \"auto\", \"show_legend\": true, \"show_markers\": false, \"slice_id\": 132, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"time_range_endpoints\": [\"inclusive\", \"exclusive\"], \"timeseries_limit_metric\": null, \"url_params\": {\"preselect_filters\": \"{\\\"118\\\": {\\\"__time_range\\\": \\\"Last month\\\"}}\"}, \"viz_type\": \"line\", \"x_axis_format\": \"smart_date\", \"x_axis_label\": \"\", \"x_axis_showminmax\": false, \"x_ticks_layout\": \"auto\", \"y_axis_bounds\": [null, null], \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"y_axis_showminmax\": false, \"y_log_scale\": false, \"remote_id\": 132, \"datasource_name\": \"deadcount\", \"schema\": null, \"database_name\": \"mydata_test\"}",
+                            "slice_name": "\u5168\u56fd\u6b7b\u4ea1\u4eba\u6570\u65f6\u95f4\u7ebf",
+                            "viz_type": "line"
                         }
                     }
                 ],
@@ -154,22 +198,22 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
+                                "__datetime__": "2020-06-03T10:53:38"
                             },
                             "column_name": "indextime",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
+                                "__datetime__": "2020-06-03T10:53:38"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 503,
+                            "id": 515,
                             "is_active": true,
                             "is_dttm": true,
                             "python_date_format": null,
-                            "table_id": 22,
+                            "table_id": 25,
                             "type": "DATE",
                             "verbose_name": null
                         }
@@ -178,70 +222,22 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
+                                "__datetime__": "2020-06-03T10:53:38"
                             },
-                            "column_name": "provinceName",
+                            "column_name": "sum_province_deadCount",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
+                                "__datetime__": "2020-06-03T10:53:38"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 504,
+                            "id": 516,
                             "is_active": true,
                             "is_dttm": false,
                             "python_date_format": null,
-                            "table_id": 22,
-                            "type": "TEXT",
-                            "verbose_name": null
-                        }
-                    },
-                    {
-                        "__TableColumn__": {
-                            "changed_by_fk": 1,
-                            "changed_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
-                            },
-                            "column_name": "cityName",
-                            "created_by_fk": 1,
-                            "created_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
-                            },
-                            "description": null,
-                            "expression": null,
-                            "filterable": true,
-                            "groupby": true,
-                            "id": 505,
-                            "is_active": true,
-                            "is_dttm": false,
-                            "python_date_format": null,
-                            "table_id": 22,
-                            "type": "TEXT",
-                            "verbose_name": null
-                        }
-                    },
-                    {
-                        "__TableColumn__": {
-                            "changed_by_fk": 1,
-                            "changed_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
-                            },
-                            "column_name": "sum_city_confirmedCount",
-                            "created_by_fk": 1,
-                            "created_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
-                            },
-                            "description": null,
-                            "expression": null,
-                            "filterable": true,
-                            "groupby": true,
-                            "id": 506,
-                            "is_active": true,
-                            "is_dttm": false,
-                            "python_date_format": null,
-                            "table_id": 22,
+                            "table_id": 25,
                             "type": "DOUBLE",
                             "verbose_name": null
                         }
@@ -258,29 +254,29 @@
                         "__SqlMetric__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
+                                "__datetime__": "2020-06-03T10:53:38"
                             },
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T16:43:02"
+                                "__datetime__": "2020-06-03T10:53:38"
                             },
                             "d3format": null,
                             "description": null,
                             "expression": "COUNT(*)",
-                            "id": 30,
+                            "id": 33,
                             "metric_name": "count",
                             "metric_type": "count",
-                            "table_id": 22,
+                            "table_id": 25,
                             "verbose_name": "COUNT(*)",
                             "warning_text": null
                         }
                     }
                 ],
                 "offset": 0,
-                "params": "{\"remote_id\": 22, \"database_name\": \"mydata_test\"}",
+                "params": "{\"remote_id\": 25, \"database_name\": \"mydata_test\"}",
                 "schema": null,
                 "sql": null,
-                "table_name": "alltime_index_province_city_confirm",
+                "table_name": "deadcount",
                 "template_params": null
             }
         },
@@ -292,22 +288,22 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
                             "column_name": "indextime",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T01:59:09"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 493,
-                            "is_active": null,
+                            "id": 507,
+                            "is_active": true,
                             "is_dttm": true,
                             "python_date_format": null,
-                            "table_id": 19,
+                            "table_id": 23,
                             "type": "DATE",
                             "verbose_name": null
                         }
@@ -316,23 +312,23 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
-                            "column_name": "sum_province_confirmedCount",
+                            "column_name": "provinceName",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T01:59:09"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 494,
-                            "is_active": null,
+                            "id": 508,
+                            "is_active": true,
                             "is_dttm": false,
                             "python_date_format": null,
-                            "table_id": 19,
-                            "type": "DOUBLE",
+                            "table_id": 23,
+                            "type": "TEXT",
                             "verbose_name": null
                         }
                     },
@@ -340,70 +336,22 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
-                            "column_name": "diff",
+                            "column_name": "province_confirmedCount",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 510,
+                            "id": 509,
                             "is_active": true,
                             "is_dttm": false,
                             "python_date_format": null,
-                            "table_id": 19,
-                            "type": "DOUBLE",
-                            "verbose_name": null
-                        }
-                    },
-                    {
-                        "__TableColumn__": {
-                            "changed_by_fk": 1,
-                            "changed_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
-                            },
-                            "column_name": "id",
-                            "created_by_fk": 1,
-                            "created_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
-                            },
-                            "description": null,
-                            "expression": null,
-                            "filterable": true,
-                            "groupby": true,
-                            "id": 511,
-                            "is_active": true,
-                            "is_dttm": false,
-                            "python_date_format": null,
-                            "table_id": 19,
-                            "type": "BIGINT",
-                            "verbose_name": null
-                        }
-                    },
-                    {
-                        "__TableColumn__": {
-                            "changed_by_fk": 1,
-                            "changed_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
-                            },
-                            "column_name": "diff_day",
-                            "created_by_fk": 1,
-                            "created_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
-                            },
-                            "description": null,
-                            "expression": null,
-                            "filterable": true,
-                            "groupby": true,
-                            "id": 512,
-                            "is_active": true,
-                            "is_dttm": false,
-                            "python_date_format": null,
-                            "table_id": 19,
+                            "table_id": 23,
                             "type": "DOUBLE",
                             "verbose_name": null
                         }
@@ -420,29 +368,29 @@
                         "__SqlMetric__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T20:59:29"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T01:59:09"
+                                "__datetime__": "2020-05-31T18:25:17"
                             },
                             "d3format": null,
                             "description": null,
                             "expression": "COUNT(*)",
-                            "id": 27,
+                            "id": 31,
                             "metric_name": "count",
-                            "metric_type": null,
-                            "table_id": 19,
+                            "metric_type": "count",
+                            "table_id": 23,
                             "verbose_name": "COUNT(*)",
                             "warning_text": null
                         }
                     }
                 ],
                 "offset": 0,
-                "params": "{\"remote_id\": 19, \"database_name\": \"mydata_test\"}",
+                "params": "{\"remote_id\": 23, \"database_name\": \"mydata_test\"}",
                 "schema": null,
                 "sql": null,
-                "table_name": "allcount",
+                "table_name": "index_province_confirmedCount",
                 "template_params": null
             }
         },
@@ -808,22 +756,22 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "column_name": "indextime",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 507,
+                            "id": 503,
                             "is_active": true,
                             "is_dttm": true,
                             "python_date_format": null,
-                            "table_id": 23,
+                            "table_id": 22,
                             "type": "DATE",
                             "verbose_name": null
                         }
@@ -832,22 +780,22 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "column_name": "provinceName",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 508,
+                            "id": 504,
                             "is_active": true,
                             "is_dttm": false,
                             "python_date_format": null,
-                            "table_id": 23,
+                            "table_id": 22,
                             "type": "TEXT",
                             "verbose_name": null
                         }
@@ -856,22 +804,46 @@
                         "__TableColumn__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
-                            "column_name": "province_confirmedCount",
+                            "column_name": "cityName",
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "description": null,
                             "expression": null,
                             "filterable": true,
                             "groupby": true,
-                            "id": 509,
+                            "id": 505,
                             "is_active": true,
                             "is_dttm": false,
                             "python_date_format": null,
-                            "table_id": 23,
+                            "table_id": 22,
+                            "type": "TEXT",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T16:43:02"
+                            },
+                            "column_name": "sum_city_confirmedCount",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T16:43:02"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 506,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 22,
                             "type": "DOUBLE",
                             "verbose_name": null
                         }
@@ -888,29 +860,281 @@
                         "__SqlMetric__": {
                             "changed_by_fk": 1,
                             "changed_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "created_by_fk": 1,
                             "created_on": {
-                                "__datetime__": "2020-05-31T18:25:17"
+                                "__datetime__": "2020-05-31T16:43:02"
                             },
                             "d3format": null,
                             "description": null,
                             "expression": "COUNT(*)",
-                            "id": 31,
+                            "id": 30,
                             "metric_name": "count",
                             "metric_type": "count",
-                            "table_id": 23,
+                            "table_id": 22,
                             "verbose_name": "COUNT(*)",
                             "warning_text": null
                         }
                     }
                 ],
                 "offset": 0,
-                "params": "{\"remote_id\": 23, \"database_name\": \"mydata_test\"}",
+                "params": "{\"remote_id\": 22, \"database_name\": \"mydata_test\"}",
                 "schema": null,
                 "sql": null,
-                "table_name": "index_province_confirmedCount",
+                "table_name": "alltime_index_province_city_confirm",
+                "template_params": null
+            }
+        },
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T10:44:04"
+                            },
+                            "column_name": "indextime",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T10:44:04"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 513,
+                            "is_active": true,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 24,
+                            "type": "DATE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T10:44:04"
+                            },
+                            "column_name": "sum_province_confirmedCount",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T10:44:04"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 514,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 24,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": false,
+                "main_dttm_col": "indextime",
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-06-03T10:44:04"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-06-03T10:44:04"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "COUNT(*)",
+                            "id": 32,
+                            "metric_name": "count",
+                            "metric_type": "count",
+                            "table_id": 24,
+                            "verbose_name": "COUNT(*)",
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 24, \"database_name\": \"mydata_test\"}",
+                "schema": null,
+                "sql": null,
+                "table_name": "curedcount",
+                "template_params": null
+            }
+        },
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "column_name": "indextime",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T01:59:09"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 493,
+                            "is_active": null,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 19,
+                            "type": "DATE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "column_name": "sum_province_confirmedCount",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T01:59:09"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 494,
+                            "is_active": null,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 19,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "column_name": "diff",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 510,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 19,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "column_name": "id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 511,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 19,
+                            "type": "BIGINT",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "column_name": "diff_day",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 512,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 19,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": false,
+                "main_dttm_col": "indextime",
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-05-31T20:59:29"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-05-31T01:59:09"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "COUNT(*)",
+                            "id": 27,
+                            "metric_name": "count",
+                            "metric_type": null,
+                            "table_id": 19,
+                            "verbose_name": "COUNT(*)",
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 19, \"database_name\": \"mydata_test\"}",
+                "schema": null,
+                "sql": null,
+                "table_name": "allcount",
                 "template_params": null
             }
         }
